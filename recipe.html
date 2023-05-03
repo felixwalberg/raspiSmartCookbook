@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{Title}}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+
+<body style="background-color:#66AC47;">
+<style>
+  /* Header and footer */
+/* This makes it so the header fits the whole page */
+    * {
+      margin: 0;
+    }
+    .pageHeader {
+      background-color: #007155;
+      height: 100px;
+    }
+    .pageFooter {
+	margin: 0;
+	position: fixed;
+	background-color: #007155;
+	height: 100px;
+	bottom: 0;
+	width: 100%;
+    }
+
+    .h1 {
+    text-align:center;
+    position: relative;
+    top: 0.5vw;
+    
+   
+}
+    .h6 {
+    text-align:left;
+    position: relative;
+    top: 0.5vw;
+    left: 0.5vw;
+}
+.h4 {
+	white-space: pre-wrap;
+	text-align: left;
+	margin-left: 20px;
+}
+.page {
+	min-height: 100%;
+	margin-bottom: 100px;
+}
+/* buttons for going home, to the probe, and back */
+.buttonHome {
+position: fixed;
+right: 10px;
+top: 10px;
+background-color: #A7D4EE;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 0px 0px;
+  cursor: pointer;
+  border: 3px solid black;
+}
+.buttonProbe {
+position: fixed;
+right: 200px;
+top: 10px;
+background-color: #A7D4EE;
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 0px 0px;
+cursor: pointer;
+border: 3px solid black;
+}
+.buttonBack {
+position: fixed;
+left: 10px;
+top: 10px;
+background-color: #A7D4EE;
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 0px 0px;
+cursor: pointer;
+border: 3px solid black;
+z-index: 4;
+}
+
+
+</style>
+</head>
+
+
+<body>
+<div class="pageHeader">
+    <h1 class="h1" style="color:black;font-weight:bold;font-size:80px;font-family:palatino;">{{Title}}</h1>
+</div>
+<!-- buttons to go home, go back, and to probe -->
+<a class="button buttonHome" href="{{ url_for('goHome') }}">Go Home</a>
+<a class="button buttonProbe" href="{{ url_for('probe') }}">Probe</a>
+<button class="button buttonBack" onclick="history.back()">Go Back</button>
+<div class="page">
+<h1  class="h1" style="color:black;font-weight:bold;font-size:45px;font-family:palantino;">Ingredients</h1>
+{% for item in data %}
+<h4  class="h4" style="color:black;font-size:20px;font-family:palantino;">{{item[3]}}</h4>
+
+<h1 class="h1" style="color:black;font-weight:bold;font-size:45px;font-family:palantino;">Instructions</h1>
+<h4 class="h4" style="color:black;font-size:20px;font-family:palantino;">{{item[4]}}</h4>
+{% endfor %}
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</div>
+<div class="pageFooter">
+    <h6 style="font-size:15px;color:white;font-family:georgia;">{{Name}} 2023 </h6>
+    <h6 style="font-size:15px;color:white;font-family:georgia;">CS121 - Computer Organization </h6>
+
+</div>
+</body>
+</html>

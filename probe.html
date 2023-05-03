@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{Title}}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+
+<body style="background-color:#66AC47;">
+<style>
+  /* Header and footer */
+/* This makes it so the header fits the whole page */
+    * {
+      margin: 0;
+    }
+    .pageHeader {
+      background-color: #007155;
+      height: 100px;
+    }
+
+    .h1 {
+    text-align:center;
+    position: relative;
+    top: 0.5vw;
+}
+    .h6 {
+    text-align:left;
+    position: relative;
+    top: 0.5vw;
+    left: 0.5vw;
+}
+/*  buttons for going home, back, and a format for the picture */
+.buttonHome {
+position: fixed;
+right: 10px;
+top: 10px;
+background-color: #A7D4EE;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 0px 0px;
+  cursor: pointer;
+  border: 3px solid black;
+  z-index: 4;
+}
+.buttonBack {
+position: fixed;
+right: 200px;
+top: 10px;
+background-color: #A7D4EE;
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 0px 0px;
+cursor: pointer;
+border: 3px solid black;
+z-index: 4;
+}
+.probeInfo {
+position: absolute;
+right: 0px;
+top: 300px;
+z-index: 2;
+}
+/*  formatting for probe data visualization from initial state */
+    .probeFromIS {
+	    position: absolute;
+	    z-index:1
+    }
+
+
+</style>
+</head>
+
+
+<body>
+<div class="pageHeader">
+	<h1 class="h1" style="color:black;font-weight:bold;font-size:80px;font-family:palatino;">{{Title}}</h1>
+</div>
+<!-- buttons to go home and go back -->
+<a class="button buttonHome" href="{{ url_for('goHome') }}">Go Home</a>
+<button class="button buttonBack" onclick="history.back()">Go Back</button>
+
+<!-- Initial state formatting  -->
+<main role="main">
+  <div class="embed-responsive embed-responsive-16by9">
+
+    <iframe class="probeInfo" 
+       src="https://iot.app.initialstate.com/embed/#/tiles/bkt_1qt38lgsf1dra"
+	    width="300"
+	    ></iframe>
+  </div> 
+  <div>
+  <img class="probeInfo"
+       src="https://images.heb.com/is/image/HEBGrocery/article/Cooking-Temperatures-2.jpg"
+       height="500"
+       alt="buttonpng"
+       border="0" /> </div>
+</main>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+<div class="pageHeader">
+    <h6 style="font-size:15px;color:white;font-family:georgia;">{{Name}} 2023 </h6>
+    <h6 style="font-size:15px;color:white;font-family:georgia;">CS121 - Computer Organization </h6>
+
+</div>
+</body>
+</html>

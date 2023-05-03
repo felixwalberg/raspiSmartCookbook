@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="styles.css">
+    <title>Categories</title>
+<body style="background-color:#66AC47;">
+
+<style>
+/* Flexbox formatting to keep categories in evenly spaced grid */
+ .container {
+      height: 800px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    .containerType2 {
+
+      display: flex;
+      flex-direction: row;
+        justify-content: center;
+    }
+
+        .containerType1 {
+      display: flex;
+      flex-direction: row;
+  justify-content: center;
+}
+.containerType3 {
+display: flex;
+      flex-direction: row;
+  justify-content: center;
+}
+.item {
+        width: 400px;
+      margin: 10px;
+      border: 3px solid #333;
+      background-color; #dfdfdf;
+
+
+    }
+    .itemTypeButton {
+    display: flex;
+      flex-direction: row;
+      justify-content: center;
+      min-height: 200px;
+      min-width: 500px;
+    }
+
+/* Buttons */
+.button {
+  background-color: #007155;
+  border: none;
+  color: #A7D4EE;
+  padding: 15px 32px;
+    text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  font-family: palantino;
+  margin: 0px 0px;
+  cursor: pointer;
+  height: 200px;
+  width: 500px;
+    }
+/* Header and footer */
+/* This makes it so the header fits the whole page */
+    * {
+      margin: 0;
+    }
+    .pageHeader {
+      background-color: #007155;
+      height: 100px;
+    }
+
+    .h1 {
+    text-align:center;
+    position: relative;
+    top: 0.5vw;
+}
+    .h6 {
+    text-align:left;
+    position: relative;
+    top: 0.5vw;
+    left: 0.5vw;
+}
+.buttonHome {
+position: fixed;
+right: 10px;
+bottom: 10px;
+background-color: #A7D4EE;
+font-family: arial;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 0px 0px;
+  cursor: pointer;
+  height: 23.5px;
+  width: 68.25px;
+  border: 3px solid black;
+
+}
+.buttonBack {
+position: fixed;
+right: 200px;
+bottom: 10px;
+background-color: #A7D4EE;
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 0px 0px;
+cursor: pointer;
+border: 3px solid black;
+z-index: 4;
+width: 68.25px;
+height: 23.5px;
+}
+
+</style>
+</head>
+
+<body>
+<div class="pageHeader">
+    <h1 class="h1" style="font-size:80px;font-family:palatino;">{{Title}}</h1>
+</div>
+<a class="button buttonHome" href="{{ url_for('goHome') }}">Go Home</a>
+<a class="button buttonBack" onclick="history.back()">Go Back</a>
+
+<div class="container">
+    <div class="containerType1">
+        <div class="item itemTypeButton">
+	    <a class="button" href="{{ url_for('breakfast') }}">Breakfast</a>
+        </div>
+        <div class="item itemTypeButton">
+		<a class="button" href="{{ url_for('baking') }}">Baking</a>
+        </div>
+        <div class="item itemTypeButton">
+	    <a class="button" href="{{ url_for('meat') }}">Meat</a>
+        </div>
+
+    </div>
+    <div class="containerType2">
+        <div class="item itemTypeButton" style="border:0px">
+    
+	    <img src="https://simply-delicious-food.com/wp-content/uploads/2022/09/Breakfast-board28.jpg"
+		 height="250"
+		 alt="buttonpng"
+		 border="0" />
+        </div>
+        <div class="item itemTypeButton" style="border:0px">
+	   
+	    <img src="https://images.unsplash.com/photo-1597528662465-55ece5734101?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGJha2luZ3xlbnwwfHwwfHw%3D&w=1000&q=80"
+		 height="250"
+		 alt="buttonpng"
+		 border="0" />
+        </div>
+        <div class="item itemTypeButton" style="border:0px">
+	    <img src="https://www.thechunkychef.com/wp-content/uploads/2017/08/One-Pot-Chicken-Parmesan-Pasta-feat.jpg"
+		 height="250"
+		 alt="buttonpng"
+		 border="0" />
+
+        </div>
+    </div>
+    <div class="containerType3">
+        <div class="item itemTypeButton">
+		<a class="button" href="{{ url_for('soupsnstews') }}">Soups & Stews</a>
+        </div>
+        <div class="item itemTypeButton">
+	    <a class="button" href="{{ url_for('sideDishes') }}">Appetizers & Side Dishes</a>
+        </div>
+        <div class="item itemTypeButton">
+	    <a class="button" href="{{ url_for('pasta') }}">Pasta</a>
+        </div>
+    </div>
+
+</div>
+
+
+<div class="pageHeader">
+    <h6 style="font-size:15px;color:white;font-family:georgia;">{{Name}} 2023 </h6>
+    <h6 style="font-size:15px;color:white;font-family:georgia;">CS121 - Computer Organization </h6>
+
+</div>
+</body>
+</html>

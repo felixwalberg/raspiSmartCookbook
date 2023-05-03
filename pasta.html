@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Pasta</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+
+<body style="background-color:#66AC47;">
+<style>
+  /* Header and footer */
+/* This makes it so the header fits the whole page */
+    * {
+      margin: 0;
+    }
+    .pageHeader {
+      background-color: #007155;
+      height: 100px;
+    }
+    .pageFooter {
+    margin: 0;
+    position: fixed;
+    background-color: #007155;
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+    .h1 {
+    text-align:center;
+    position: relative;
+    top: 0.5vw;
+}
+    .h6 {
+    text-align:left;
+    position: relative;
+    top: 0.5vw;
+    left: 0.5vw;
+}
+.page {
+	min-height: 100%;
+	margin-bottom: 100px;
+}
+/* buttons for going home, back, and surprise */
+.buttonHome {
+position: fixed;
+right: 10px;
+bottom: 10px;
+background-color: #A7D4EE;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 0px 0px;
+  cursor: pointer;
+  border: 3px solid black;
+  z-index: 2;
+}
+.buttonBack {
+position: fixed;
+right: 200px;
+bottom: 10px;
+background-color: #A7D4EE;
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 0px 0px;
+cursor: pointer;
+border: 3px solid black;
+z-index: 4;
+}
+.buttonSurprise {
+position: fixed;
+left: 10px;
+top: 10px;
+background-color: #A7D4EE;
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 0px 0px;
+cursor: pointer;
+border: 3px solid black;
+z-index: 4;
+}
+</style>
+</head>
+
+
+<body>
+<div class="pageHeader">
+    <h1 class="h1" style="color:black;font-weight:bold;font-size:80px;font-family:palatino;">{{Title}}</h1>
+</div>
+<!-- buttons to go home, go back, and surprise user with recipe-->
+<a class="button buttonHome" href="{{ url_for('goHome') }}">Go Home</a>
+<button class="button buttonBack" onclick="history.back()">Go Back</button>
+<a class="button buttonSurprise" href="/surpriseMe/Pasta">Surprise Me</a>
+
+<div class="page">
+    <!-- header categories -->
+    <main role="main" class="container">
+    <table class="table table-hover">
+        <thread>
+            <tr>
+                <th>Recipe</th>
+                <th>Category</th>
+                <th>Time to Cook(mins)</th>
+                <th>Servings</th>
+            </tr>
+        </thread>
+        <tbody id ="recipe_tbody">
+        <!-- loop through each row and display attributes of recipes -->
+        {% for item in data %}
+        <tr>
+		<td> <a class="button" href="/recipe/{{item[2]}}">{{item[2]}}</a></td>
+            <td>{{item[1]}}</td>
+            <td>{{item[7]}}</td>
+            <td>{{item[9]}}</td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</main>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</div>
+<div class="pageFooter">
+    <h6 style="font-size:15px;color:white;font-family:georgia;">{{Name}} 2023 </h6>
+    <h6 style="font-size:15px;color:white;font-family:georgia;">CS121 - Computer Organization </h6>
+
+</div>
+</body>
+</html>

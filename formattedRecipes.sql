@@ -1,0 +1,1504 @@
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Baking', 'Blueberry Muffins','- 1 1/2 cups (195 grams) all-purpose flour
+- 3/4 cup (150 grams) granulated sugar, plus 1 tablespoon for muffin tops
+- 1/4 teaspoon fine sea salt
+- 2 teaspoons baking powder
+- 1/3 cup (80 ml) neutral-flavored oil; canola, vegetable and grape seed are great
+- 1 large egg
+- 1/3 to 1/2 cup (80 ml – 120 ml) milk; dairy and non-dairy both work
+- 1 1/2 teaspoons vanilla extract
+- 6 to 8 ounces fresh or frozen blueberries; see note below about frozen berries (about 1 cup)', 'PREPARE OVEN AND MUFFIN CUPS
+- Heat oven to 400 degrees Fahrenheit. For big-topped muffins, line 8 standard-size muffin cups with paper liners. For standard-size muffins line 10 muffin cups. Fill the remaining cups with 1 to 2 tablespoons of water to help the muffins bake evenly.
+MAKE BATTER
+- Whisk the flour, sugar, baking powder, and salt in a large bowl.
+- Add oil to a measuring jug that holds at least 1 cup. Add the egg then fill the jug to the 1-cup line with milk (1/3 to 1/2 cup milk). Add vanilla and whisk to combine.
+- Add milk mixture to the bowl with dry ingredients then use a fork to combine. Do not over mix. (The muffin batter will be quite thick — see note below for more details). Fold in the blueberries.
+BAKE MUFFINS
+- Divide the batter between muffin cups. (If making big-topped muffins, the batter will come to the tops of the paper liners). Sprinkle a little sugar on top of each muffin.
+- Bake muffins 15 to 20 minutes or until tops are no longer wet and a toothpick inserted into the middle of a muffin comes out with crumbs, not wet batter. Transfer to a cooling rack.
+- To store, place them in a plastic bag, seal, and store at room temperature for 2 to 3 days. To freeze, wrap them tightly in aluminum foil or place them in freezer bags. Freeze for up to 3 months.', 400, 20, 10);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Baking','Lemon Poppy Seed Muffins','- 3 C all-purpose flour
+- 1 C sugar
+- 2 tbsp poppy seeds
+- 1 tbsp baking powder
+- 1/2 tsp baking soda
+- 1/2 tsp salt
+- 1 1/2 C plain whole milk yogurt or low-fat yogurt
+- 2 tbsp fresh lemon juice, optional
+- 1 1/2 tbsp grated lemon zest
+- 2 large eggs
+- 8 tbsp unsalted butter, melted and cooled
+~for the glaze~
+- 1/4 C sugar
+- 1/4 C lemon juice
+- coarse sugar for sprinkling, optional','- Adjust oven rack to middle position and heat oven to 375 degrees F. Grease 12-cup muffin tin.
+- Whisk flour, sugar, poppy seeds, baking powder, baking soda, and salt together in a large bowl.
+- In a separate bowl, whisk yogurt, lemon zest, and eggs until smooth. Gently fold yogurt mixture into flour mixture until just combined. Fold in melted butter. Do not overmix. If you overmix, the muffins will be dense.
+- Divide batter evenly among prepared muffin cups. (I like to use this ice cream scoop to make it easy) Bake until golden brown and toothpick inserted in the center comes out clean, 20 to 25 minutes. Rotate muffin tin halfway through baking.
+- While muffin are baking, simmer sugar and lemon juice together in a small saucepan over medium heat until it turns into a light syrup, about 3-5 minutes.
+- Remove muffin tin to a wire rack. Brush with lemon syrup. Sprinkle with coarse sugar. Let muffins cool in tin for 5 minutes, then transfer to a wire rack and let cool for another 10 minutes before serving.',375, 25, 12);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Baking','Biscuits','- 2 cups all-purpose flour
+- 1 tablespoon sugar
+- 3 teaspoons baking powder
+- 1 teaspoon salt
+- 1/2 cup shortening or butter
+- 3/4 cup milk','- Heat the oven to 450°F. In a medium bowl, stir the flour, sugar, baking powder and salt until mixed. Cut in the shortening using a pastry blender or fork, until mixture looks like fine crumbs. Stir in the milk until mixture forms a soft dough and leaves the side of the bowl (dough will be soft and sticky).
+- Lightly sprinkle flour over a cutting board or countertop. Place dough on floured surface; gently roll in the flour to coat. To knead dough, fold dough toward you. With the heels of your hands, lightly push dough away from you with a short rocking motion. Move dough a quarter turn and repeat 10 times. Dough will feel springy and smooth.
+- On the floured surface, flatten dough evenly, using hands or a rolling pin, until dough is 1/2 inch thick.
+- Before cutting each biscuit, dip a 2 1/2-inch round cutter into flour to lightly coat it so it will cut cleanly through the dough without sticking. To cut, push the cutter straight down through the dough without twisting or turning. Cut the biscuits as close together as possible. On an ungreased cookie sheet, place biscuits about 1 inch apart for biscuits with crusty sides, or place with sides touching for biscuits with soft sides.
+- Bake 10 to 12 minutes or until golden brown. Immediately remove from cookie sheet. Serve warm.',450, 12, 12);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Baking','French Bread','- 2 1/4 cups warm water, 110-115 degrees F
+- 2 tablespoons granulated sugar
+- 1 tablespoon instant or active dry yeast (see note)
+- 2 1/4 teaspoons salt (see note)
+- 2 tablespoons olive oil, canola oil, vegetable oil or avocado oil
+- 5 1/2 – 6 cups (781 – 852 g) all-purpose flour or bread flour (see note)','- In the bowl of an electric stand mixer fitted with the dough hook, combine the water sugar and yeast. If using active dry yeast, let the mixture bubble and foam before proceeding (this can take 3-5 minutes). If using instant yeast, proceed with the recipe (no need to let the yeast activate).
+- Add the salt, oil and 3 cups of flour and mix. Add in 2 1/2 to 3 more cups of flour gradually. The dough should clear the sides of the bowl and form a soft ball that does not leave a lot of dough residue on your fingers.
+- Add the salt, oil and 3 cups of flour and mix. Add in 2 1/2 to 3 more cups of flour gradually. The dough should clear the sides of the bowl and form a soft ball that does not leave a lot of dough residue on your fingers.
+- Rising Method 1: Leave the dough in the mixer, cover with a lid or towel, and let the dough rest for 10 minutes. Stir it down by turning on the mixer for 10 seconds or so. Repeat the rest and stir down cycle five more times.
+- Rising Method 2: Instead of letting the dough rest for 10 minute spurts and then stirring it down, transfer the dough to a lightly greased bowl and cover with a towel or greased plastic wrap. Let the dough rise until doubled, about an hour or so, depending on the warmth of your kitchen.
+- Turn the dough onto a lightly greased surface and divide in half. Pat each section into a thick rectangle, 9X13-inches or thereabouts (does not have to be exact). Roll the dough up starting from the long edge, pressing out any air bubbles or seams with the heel of your hand, and pinch the edge to seal. Arrange seam side down on a large baking sheet lined with parchment paper (I use separate baking sheets for each loaf).
+- With a bread lame, razor blade or VERY sharp knife, cut several gashes at an angle on the top each loaf (you can wait to score the bread until after it rises, but it can easily deflate if the razor/knife is not sharp enough).
+- Cover the loaves with greased plastic wrap or a kitchen towel, and let rise until noticeably puffy and nearly doubled in size, about an hour.
+- Preheat the oven to 375 degrees F and make sure an oven rack is in the center position. If you find your bread is not browning as much as you like, preheat the oven to 400 or 425 degrees and/or move the oven rack up one position (watch carefully so the bread, especially the bottom, does not burn).
+- Optional: for an extra golden, crisp crust, place the loaves in the preheated oven and immediately toss 3-4 ice cubes on the bottom of the oven. Close the oven door quickly but gently. (See note below!)
+- Bake the loaves for 25-30 minutes until golden and baked through.
+- If desired, brush melted butter over the hot loaves (this softens the crust a bit, so if you want a crispier crust, do not butter the top).', 425, 30, 24);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Baking','Dinner Rolls','- 2 cups all-purpose flour, divided, or as needed
+- 2 tablespoons white sugar
+- 1 (.25 ounce) envelope RapidRise Yeast
+- 1/2 teaspoon salt
+- 1/2 cup milk
+- 1/4 cup water
+- 2 tablespoons butter','- Combine 3/4 cup flour, sugar, undissolved yeast, and salt in a large bowl.
+- Heat milk, water, and 2 tablespoons butter in a saucepan until very warm (120 degrees to 130 degrees F).
+- Add warm milk mixture to the flour mixture. Beat for 2 minutes on medium speed of an electric mixer, scraping the bowl occasionally. Add 1/4 cup flour; beat for 2 minutes at high speed. Stir in enough remaining flour to make soft dough.
+- Knead dough on a lightly floured surface until smooth and elastic, about 8 to 10 minutes. Cover; let rest for 10 minutes.
+- Divide dough into 12 equal pieces.
+- Shape pieces into balls and place in a greased 8-inch round pan. Cover and let rise in warm, draft-free place until doubled in size, about 30 minutes.
+- Preheat the oven to 375 degrees F (190 degrees C).
+- Bake rolls in the preheated oven until golden brown on top, about 20 minutes.
+- Serve warm and enjoy!',375, 20, 12);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Baking','Popovers','- 4 large eggs, warmed in a cup of hot water for 10 minutes before cracking
+- 1 1/2 cups (340g) milk (skim, low-fat, or full-fat), lukewarm
+- 3/4 teaspoon salt
+- 1 1/2 cups (180g) King Arthur Unbleached All-Purpose Flour
+- 3 tablespoons (43g) butter, melted','- Preheat the oven to 450°F. Position a rack on a lower shelf. The top of the fully risen popovers should be about midway up the oven. What you do not want is for the tops of the popping popovers to be too close to the top of the oven, as they will burn.
+- To make the popovers: Use a standard 12-cup metal muffin tin, one whose cups are close to 2 1/2 inches wide x 1 1/2 inches deep. Grease the pan thoroughly, covering the area between the cups as well as the cups themselves. Make sure the oven is up to temperature before you begin to make the popover batter.
+- Use a wire whisk to beat together the eggs, milk, and salt. Whisk till the egg and milk are well combined, with no streaks of yolk showing.
+- Add the flour all at once, and beat with a wire whisk till frothy; there should not be any large lumps in the batter, but smaller lumps are OK. OR, if you are using a stand mixer equipped with the whisk attachment, whisk at high speed for 20 seconds. Stop, scrape the sides of the bowl, and whisk for an additional 20 to 30 seconds at high speed, till frothy.
+- Stir in the melted butter, combining quickly.
+- Pour the batter into the muffin cups, filling them about 2/3 to 3/4 full.
+- Make absolutely certain your oven is at 450°F. Place the pan on a lower shelf of the oven.
+- Bake the popovers for 20 minutes without opening the oven door. Reduce the heat to 350°F (again without opening the door), and bake for an additional 10 to 15 minutes, until they are a deep, golden brown. If the popovers seem to be browning too quickly, position an oven rack at the very top of the oven, and put a cookie sheet on it, to shield the popover tops from direct heat.
+- If you plan on serving the popovers immediately, remove them from the oven, and stick the tip of a knife into the top of each, to release steam and help prevent sogginess. Slip them out of the pan, and serve alongside the sweet butter.
+- If you want the popovers to hold their shape longer without deflating and settling quite as much, bake them for an additional 5 minutes (for a total of 40 minutes) IF you can do so without them becoming too dark. This will make them a bit sturdier, and able to hold their popped shape a bit longer.',450, 40, 12);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Baking','Sourdough Bread','- 1 cup (227g) ripe (fed) sourdough starter
+- 1 1/2 cups (340g) water, lukewarm
+- 1 to 2 teaspoons instant yeast*
+- 2 1/2 teaspoons (15g) salt
+- 5 cups (600g) King Arthur Unbleached All-Purpose Flour','- Weigh your flour; or measure it by gently spooning it into a cup, then sweeping off any excess. Combine all of the ingredients, kneading to form a smooth dough.
+- Allow the dough to rise, in a lightly greased, covered bowl, until it is doubled in size, about 90 minutes.
+- Gently divide the dough in half; it will deflate somewhat. Preshape each piece of dough by pulling the edges into the center, turning it over so the seam is on the bottom, and rolling under your cupped hands to form a ball. Let the dough rest, covered, for 15 minutes.
+- To make fat oval loaves, elongate each ball of dough you have preshaped by gently rolling it back and forth on an unfloured work surface several times. For longer loaves, continue rolling until they are about 10 to 11 inches long.
+- Place the loaves on a lightly greased or parchment-lined baking sheet. Cover and let rise until very puffy, about 1 hour. Towards the end of the rising time, preheat the oven to 425°F.
+- Spray the loaves with lukewarm water and dust generously with flour.
+- Make two fairly deep diagonal slashes in each; a serrated bread knife wielded firmly or a lame, works well here.
+- Bake the bread for 25 to 30 minutes, until it is a very deep golden brown. Remove it from the oven, and cool on a rack.',425, 30, 24);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Baking','Tortillas','- 3 cups all-purpose flour
+- 1 teaspoon salt
+- 1 teaspoon baking powder
+- 1/3 cup extra virgin olive oil, vegetable oil or other fairly neutral flavored oil
+- 1 cup warm water','- Combine flour, salt and baking powder in a medium-size bowl. Using a sturdy silicone spatuala or a sturdy wooden spoon, mix dry ingredients until well combined.
+- Make a well in the center of the dry ingredients and add the oil and water. Stir well from the bottom up, until all dry ingredients are incorporated and the dough begins to come together and form a shaggy ball.
+- Turn dough out onto a lightly floured work surface and knead for 1-2 minutes until the dough is nice and smooth. Proceed with step number 3 below for the remainder of the recipe.
+- Transfer dough to a lightly floured work surface. Divide into 16 equal portions. Turn each piece to coat with flour. Form each piece into a ball and flatten with the palm of your hand. Cover flattened balls of dough with a clean kitchen towel and allow to rest for at least 15 minutes (or as much as 2 hours) before proceeding.
+- After the rest period, heat a large pan over medium heat. Roll each dough piece into a rough circle, about 6-7 inches in diameter, keep work surface and rolling pin lightly floured. Don’t stack uncooked tortillas on top of each other or they will stick together. (I like to separate my tortillas with parchement paper.)
+- When the pan is hot, place one dough circle into the pan and allow to cook 45 seconds to 1 minute or until the bottom surface has a few pale brown spots and the uncooked surface is bubbly. If browning too fast, reduce the heat a bit. If it’s taking longer than a minute to see a few pale golden brown spots on the underside of tortillas, increase the heat a bit. Flip to other side and cook for 15-20 seconds. The tortillas should be nice and soft but have a few small brown spots on the surface.
+- Remove from pan with tongs and stack in a covered container or zippered bag to keep the tortillas soft.
+- Serve warm or allow to cool for later use. When ready to use, place a slightly damp paper towel in the bottom of a microwave-safe container (with a cover) that will hold the stacked tortillas. Microwave uncovered for 15-30 seconds (start with 15) or until warm, then keep covered to hold heat while serving.
+- Store in an airtight container or zippered bag at room temperature for 24 hours or refrigerate for up to 1 week. To freeze, separate tortillas with parchment paper or waxed paper and place in a zippered bag before placing in the freezer.',0, 40, 16);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Baking','Bagels','- 1 and 1/2 cups (360ml) warm water (between 100-110°F, 38-43°C)
+- 2 and 3/4 teaspoons instant or active dry yeast*
+- 4 cups (520g) bread flour (spoon & leveled), plus more for work surface and hands*
+- 1 Tablespoon granulated sugar or packed light or dark brown sugar (or barley malt syrup)*
+- 2 teaspoons salt
+- coating the bowl: nonstick spray or 2 teaspoons olive oil
+- egg wash: 1 egg white beaten with 1 Tablespoon water
+~for boiling~
+- 2 quarts water
+- 1/4 cup (60g) honey (or barley malt syrup)*','- Prepare the dough: Whisk the warm water and yeast together in the bowl of your stand mixer fitted with a dough hook attachment. Cover and allow to sit for 5 minutes.
+- Add the flour, brown sugar, and salt. Beat on low speed for 2 minutes. The dough is very stiff and will look somewhat dry.
+- Turn the dough out onto a lightly floured surface. With lightly floured hands, knead the dough for 6-7 minutes. After kneading, the dough should still feel a little soft. Poke it with your finger—if it slowly bounces back, your dough is ready to rise. If not, keep kneading. The dough is too heavy for the mixer to knead it.
+- Lightly grease a large bowl with oil or nonstick spray. Place the dough in the bowl, turning it to coat all sides in the oil. Cover the bowl with aluminum foil, plastic wrap, or a clean kitchen towel.  Allow the dough to rise at room temperature for 60-90 minutes or until double in size.
+- Line two large baking sheets with parchment paper or silicone baking mats.
+- Shape the bagels: When the dough is ready, punch it down to release any air bubbles. Divide the dough into 8 equal pieces. (Just eyeball it– doesn’t need to be perfect!) Shape each piece into a ball. Press your index finger through the center of each ball to make a hole about 1.5 – 2 inches in diameter. Watch video below for a visual. Loosely cover the shaped bagels with kitchen towel and rest for a few minutes as you prepare the water bath.
+- Preheat oven to 425°F (218°C).
+- Water bath: Fill a large, wide pot with 2 quarts of water. Whisk in the honey. Bring water to a boil, then reduce heat to medium-high. Drop bagels in, 2-4 at a time, making sure they have enough room to float around. Cook the bagels for 1 minute on each side.
+- Using a pastry brush, brush the egg wash on top and around the sides of each bagel. Place 4 bagels onto each lined baking sheet.
+- Bake for 20-25 minutes, rotating the pan halfway through. You want the bagels to be a dark golden brown. Remove from the oven and allow bagels to cool on the baking sheets for 20 minutes, then transfer to a wire rack to cool completely.
+- Slice, toast, top, whatever you want! Cover leftover bagels tightly and store at room temperature for a few days or in the refrigerator for up to 1 week.',425, 25, 8);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Baking','Crescent Rolls','- 1 tablespoon active dry yeast
+- 1 teaspoon plus 1/3 cup sugar
+- 1/2 cup warm water (110° to 115°)
+- 1/2 cup butter, softened
+- 1/2 cup warm 2% milk (110° to 115°)
+- 1 large egg, room temperature
+- 3/4 teaspoon salt
+- 4 cups all-purpose flour','- In a large bowl, dissolve yeast and 1 teaspoon sugar in warm water. Add butter, milk, egg, salt, remaining 1/3 cup sugar and 2 cups flour. Beat until smooth. Stir in enough remaining flour to form a soft dough.
+- Turn onto a floured surface; knead until smooth and elastic, 6-8 minutes. Place in a greased bowl, turning once to grease the top. Cover and let rise in a warm place until doubled, about 1 hour.
+- Punch dough down. Turn onto a lightly floured surface; divide in half. Roll each portion into a 12-in. circle; cut each circle into 12 wedges. Roll up wedges from the wide end and place point side down 2 in. apart on greased baking sheets. Curve ends to form crescents. Cover and let rise in a warm place until doubled, about 30 minutes.
+- Preheat oven to 350°. Bake until golden brown, 10-12 minutes. Remove from pans to wire racks.',350, 12, 24);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Baking','Molasses Brown Bread','- 2 1/2 cups warm water
+- 1 1/2 Tablespoons instant yeast
+- 1/3 cup molasses
+- 2 Tablespoons cocoa powder
+- 3 Tablespoons oil
+- 1/3 cup honey
+- 2 teaspoons table salt
+- 3 cups whole wheat flour
+- 3-4 cups bread flour
+- 3 Tablespoons salted butter, melted
+- Old-fashioned oats for sprinkling on top','- In the bowl of a stand mixer fitted with a dough hook, combine the water, yeast, molasses, cocoa powder, oil, honey, salt, and 2 cups of the whole wheat flour. Mix until combined.
+- With the mixer running, gradually add the rest of the flour starting with the whole wheat, then adding the bread flour until the dough pulls away from the sides of the bowl (you may not need the last cup of flour). Knead for 5-7 minutes. The dough should be soft and slightly tacky.
+- Transfer the dough to a large, lightly greased bowl, then cover with a sheet of plastic wrap lightly sprayed with cooking spray, or cover with a light dish towel.  Let rise until doubled in size, 1-2 hours.
+- Punch down the dough and divide into two or three evenly-sized pieces (depending on how large you want your loaves).  Shape into tight oval loaves and place onto parchment-lined baking sheets, making sure they have space to rise without touching each other. Lightly cover with plastic wrap lightly sprayed with cooking spray or a light dish towel and let rise again until puffy and doubled in size (another 45-60 minutes).  Right before baking, you can use a very sharp razor, knife or bread-slashing lame to cut three slashes across the top of each loaf, if desired.
+- Preheat the oven to 375 degrees F.  Bake the loaves for 25 minutes.  Remove from the oven and lightly brush with the melted butter, then sprinkle with the oats and bake for another 5-7 minutes, until browned and cooked through.  Cool before slicing.',375, 30, 36);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Baking','Cheese Biscuits','- 3 cups all-purpose flour
+- 3 teaspoons baking powder
+- 1 tablespoon sugar
+- 1 teaspoon salt
+- 3/4 teaspoon cream of tartar
+- 1/2 cup cold butter
+- 1 cup shredded sharp cheddar cheese
+- 1 garlic clove, minced
+- 1/4 to 1/2 teaspoon crushed red pepper flakes
+- 1-1/4 cups 2% milk','- Preheat oven to 450°. In a large bowl, whisk flour, baking powder, sugar, salt and cream of tartar. Cut in butter until mixture resembles coarse crumbs. Stir in cheese, garlic and pepper flakes. Add milk; stir just until moistened.
+- Drop dough by heaping 1/4 cupfuls 2 in. apart onto a greased baking sheet. Bake 18-20 minutes or until golden brown. Serve warm.',450, 20, 12);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Baking','Corn Bread','- 1 cup all-purpose flour
+- 1 cup yellow cornmeal
+- 2/3 cup granulated sugar
+- 1 teaspoon salt
+- 3 1/2 teaspoons baking powder
+- 1/3 cup neutral oil or melted butter
+- 1 large egg
+- 1 cup milk','- Grease a 9-inch round cake pan or cast iron skillet well and set aside. Preheat the oven to 400 degrees.
+- In a medium mixing bowl, add the flour, cornmeal, sugar, salt, and baking powder. Whisk to combine well.
+- Make a well in the center of your dry ingredients and add your oil or butter, milk, and egg. Stir just until the mixture comes together and there are only a few lumps remaining.
+- Pour the batter into the prepared pan and bake for 20-25 minutes until the top is a deep golden brown and a toothpick inserted into the center comes out clean.
+- Serve hot.',400, 25, 10);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Baking','English Muffins','- 1 3/4 cups (397g) milk, lukewarm
+- 3 tablespoons (43g) butter, softened
+- 1 1/4 to 1 1/2 teaspoons salt, to taste
+- 2 tablespoons (25g) granulated sugar
+- 1 large egg, lightly beaten
+- 4 1/2 cups (540g) King Arthur Unbleached Bread Flour
+- 2 teaspoons instant yeast
+- King Arthur Semolina Flour or farina, for sprinkling the griddle or pan','- Weigh your flour; or measure it by gently spooning it into a cup, then sweeping off any excess. Combine all of the ingredients (except the semolina or farina) in a mixing bowl, or the bucket of your bread machine.
+- This is a very soft dough, so you will need to treat it a bit differently than most yeast doughs. If you have a stand mixer, beat the dough using the flat beater paddle until it starts coming away from the sides of the bowl, and is satin-smooth and shiny; this will take about 5 minutes at medium-high speed. When you lift up the beater, the dough will be very stretchy. If you have a bread machine, simply use the dough cycle.
+- Scrape the dough into a rough ball, and cover the bowl. Let the dough rise until it is nice and puffy; this will take 1 to 2 hours or so.
+- Prepare your griddle(s). Using two griddles allows you to cook all the muffins at once; but since you probably do not have two griddles, you will need to cook the muffins in shifts. Whatever you use — an electric griddle, stovetop griddle, frying pan, electric frying pan — sprinkle it heavily with semolina or farina. If you are using a griddle or frying pan that is not well-seasoned (or non-stick), spray it with non-stick vegetable oil spray first, before adding the semolina or farina.
+- Gently deflate the dough, and divide it into 16 pieces. Shape each piece into a smooth ball, then flatten the balls until they are about 3 to 3 1/2 inches in diameter.
+- The easiest way to handle and cook these muffins is to lay them right onto the cold surface you will be frying them on. That way, you do not have to move them once they are risen; and they will not mind cooking very slowly as you fire the griddle up to its desired heat. If you do not have enough griddle space to do this, sprinkle a baking sheet heavily with semolina or farina, and place the muffins on the sheet; they can be fairly close together. Either way, sprinkle the tops of the muffins with additional semolina or farina.
+- Cover the muffins (a piece of parchment works well), and let them rest for 20 minutes. They will not rise like crazy, but will puff a bit.
+- Cook the muffins over low heat for 7 to 15 minutes per side, until their crust is golden brown, and their interior is cooked through. When done, the center of a muffin should register about 200°F on an instant-read thermometer. If you find the muffins have browned before they are cooked all the way through, no worries; simply pop them into a preheated 350°F oven for about 10 minutes or so, or until they are thoroughly cooked.
+- Remove the muffins from the griddle (or oven), and let them cool thoroughly before enjoying. Remember: use a fork to split, not a knife to cut. Fork-split muffins will have wonderful nooks and crannies; knife-cut ones will not.',350, 30, 16);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Meat','Beef Burger','- 2 pounds ground chuck
+- 1/2 cup crushed saltine crackers or Panko breadcrumbs
+- 1 large egg
+- 2 tablespoons Worcestershire sauce
+- 2 tablespoons milk
+- 1 teaspoon salt
+- 1 teaspoon garlic powder
+- 1 teaspoon onion powder
+- 1/2 teaspoon black pepper','- Set out a large mixing bowl. Add in the ground beef, crushed crackers, egg, Worcestershire sauce, milk, salt, garlic powder, onion powder, and pepper. Mix by hand until the meat mixture is smooth, but stop once the mixture looks even. (Overmixing can create a dense heavy texture.)
+- Press the meat down in the bowl, into an even disk. Use a knife to cut and divide the hamburger patty mixture into 6 - 1/3 pound grill or skillet patties, or 12 thin griddle patties.
+- Set out a baking sheet, lined with wax paper or foil, to hold the patties. One at a time, gather the patty mix and press firmly into patties. Shape them just slightly larger than the buns you plan to use, to account for shrinkage during cooking. Set the patties on the baking sheet. Use a spoon to press a dent in the center of each patty so they do not puff up as they cook. If you need to stack the patties separate them with a sheet of wax paper.
+- Preheat the grill or a skillet to medium heat. (Approximately 350-400 degrees F.)
+- For thick patties: Grill or fry the patties for 3-4 minutes per side.
+- For thin patties: Cook on the griddle for 2 minutes per side.
+- Stack the hot patties on hamburgers buns, and top with your favorite hamburgers toppings. Serve warm.',400, 8, 6);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Meat','Steak','- 2 lbs New York Strip Steaks (2 steaks), or Ribeye or Top Sirloin Steaks (1 lb each steak, 1 1/4” thick)
+- 1/2 Tbsp vegetable oil, or any high heat cooking oil like canola or extra light olive oil
+- 1 1/2 tsp sea salt
+- 1 tsp black pepper, freshly ground
+- 2 Tbsp unsalted butter
+- 2 cloves garlic, peeled and quartered
+- 1 sprig fresh rosemary','- Thoroughly pat steak dry with paper towels. Just before cooking, generously season with 1 1/2 tsp salt and 1 tsp black pepper
+- Heat the cast iron pan until hot then add 1/2 Tbsp oil over medium-high heat, swirling to coat. Once the oil is very hot, add steaks to the skillet. Sear the steaks on the first side for 4 minutes until a brown crust has formed then flip and cook another 3-4 minutes. Using tongs, turn the steak on its sides to render the white fat and sear the edges (1-minute per edge).
+- Reduce heat to medium and immediately add 2 Tbsp butter, quartered garlic cloves and rosemary to the pan. Spoon the butter sauce over the steak, tilting the pan to get butter on your spoon. Continue spooning the sauce over the steak for a minute or until the steak is about 5-10 degrees from your desired doneness (the temperature will continue to rise another 5-10 degrees while steaks rest).
+- Transfer steak to a cutting board, loosely cover and rest 10 minutes before slicing into 1/2 inch strips to serve. Spoon extra butter sauce over sliced steak to serve.',0, 15, 4);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Meat','Beef Stir-Fry','- 1 1/2 pounds skirt steak, cut into 4-inch-long pieces, then cut against the grain into 1/4-inch-thick slices
+- Salt and freshly ground pepper
+- 1/4 cup low-sodium soy sauce
+- 1 serrano chile pepper, seeded and finely chopped
+- 2 teaspoons sugar
+- 2 tablespoons freshly squeezed lime juice (1 to 2 limes)
+- 2 tablespoons olive oil
+- 2 cloves garlic, grated
+- 1 bunch scallions, thinly sliced
+- 6 ounces fresh mushrooms, sliced
+- 1/4 pound snow peas or green beans
+- 1 12-ounce can baby corn, drained
+- 1 red bell pepper, thinly sliced (optional)','- Season the steak with salt and pepper. In a medium bowl, whisk together the soy sauce, chile pepper, sugar and lime juice until the sugar is dissolved. Add the beef, toss to coat and set aside.
+- In a large skillet over medium-high heat, heat the oil until shimmering, about 1 minute. Add the beef and cook, stirring, until cooked through, 3 to 5 minutes.
+- Remove the beef from the skillet and set aside. Allow the liquid in the pan to reduce until thickened, about 4 minutes. Add the garlic and scallions and cook 1 minute more. Add the mushrooms and cook for 2 to 3 minutes more. Add the snow peas, baby corn and bell pepper and continue cooking until all the vegetables are crisp-tender, about 2 minutes. Return the beef to the skillet and toss to combine.',0, 15, 4);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Meat','Beef Spaghetti Sauce','- 1 pound ground beef
+- 1 medium onion, chopped
+- 4 cloves garlic, minced
+- 1 small green bell pepper, diced
+- 1 (28 ounce) can diced tomatoes
+- 1 (16 ounce) can tomato sauce
+- 1 (6 ounce) can tomato paste
+- 2 teaspoons dried oregano
+- 2 teaspoons dried basil
+- 1 teaspoon salt
+- 1/2 teaspoon ground black pepper','- Combine ground beef, onion, garlic, and green pepper in a large saucepan over medium-high heat. Cook and stir until meat is browned and crumbly and vegetables are tender, 5 to 7 minutes. Drain grease.
+- Stir diced tomatoes, tomato sauce, and tomato paste into the pan. Season with oregano, basil, salt, and pepper. Simmer spaghetti sauce for 1 hour, stirring occasionally.
+- Serve hot and enjoy!',0, 65, 4);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Meat','Beef Stroganoff','- 1 1/2 pounds beef sirloin steak, 1/2 inch thick
+- 8 ounces fresh mushrooms, sliced(2 1/2 cups)
+- 2 medium onions, thinly sliced
+- 1 garlic clove, finely chopped
+- 1/4 cup butter
+- 1 1/2 cups Progresso™ beef flavored broth (from 32-ounce carton)
+- 1/2 teaspoon salt
+- 1 teaspoon Worcestershire sauce
+- 1/4 cup Gold Medal™ all-purpose flour
+- 1 1/2 cups sour cream
+- 3 cups hot cooked egg noodles','- Cut beef across grain into about 1 1/2x1/2-inch strips.
+- Cook mushrooms, onions and garlic in butter in 10-inch skillet over medium heat, stirring occasionally, until onions are tender; remove from skillet.
+- Cook beef in same skillet until brown. Stir in 1 cup of the broth, the salt and Worcestershire sauce. Heat to boiling; reduce heat. Cover and simmer 15 minutes.
+- Stir remaining 1/2 cup broth into flour; stir into beef mixture. Add onion mixture; heat to boiling, stirring constantly. Boil and stir 1 minute. Stir in sour cream; heat until hot (do not boil). Serve over noodles.',0, 15, 6);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Meat','Pork Chops','- 4 pork chops, about 1-inch thick and 6 to 7 ounces each, see notes
+- Salt, to taste
+- 1 tablespoon all-purpose flour
+- 1 teaspoon chili powder, see our homemade chili powder recipe
+- 1 teaspoon garlic powder
+- 1 teaspoon onion powder
+- 1/2 teaspoon smoked paprika
+- 1/2 teaspoon ground black pepper
+- 1 tablespoon neutral oil like avocado oil or vegetable oil
+- 1 cup low-sodium chicken stock, see our homemade chicken stock recipe
+- 1 tablespoon apple cider vinegar
+- 2 teaspoons honey or brown sugar
+- 1 tablespoon butter
+- 2 tablespoons chopped fresh parsley, optional','- Take the pork chops out of the refrigerator and season on both sides with salt — we use just less than 1/4 teaspoon of fine salt per pork chop. Set the chops aside to rest for 30 minutes.
+- Meanwhile, make the spice rub. In a small bowl, mix the flour, chili powder, garlic powder, onion powder, smoked paprika, and 1/2 teaspoon of black pepper.
+- After 30 minutes, use a paper towel to pat the pork chops dry, then rub both sides of the chops with the spice rub.
+- Heat the oil in a skillet (with a lid) over medium-high heat. When the oil is hot and looks shimmery, add the pork. Cook until golden, 2 to 3 minutes.
+- Flip the pork so that the seared side is facing up. If there is a fattier side of the pork, use kitchen tongs to hold the chops, fat-side-down until it sizzles and browns slightly; about 30 seconds.
+- Reduce the heat to low, then cover the skillet with a lid. Cook 6 to 12 minutes or until an instant-read thermometer reads 145° F when inserted into the thickest part of the chop. Cook time depends on the thickness of the chops, so check for doneness at 5 minutes, then go from there, checking every 2 minutes after that. If you do not have a thermometer, you will know they are done, if, when cutting into the chops, the juices run clear.
+- Transfer pork chops to a plate, then cover loosely with aluminum foil. Let the pork rest for 5 minutes.
+~for pan sauce~
+- While the pork rests, make the pan sauce. Increase the heat to medium-high, then add the chicken stock, vinegar, and honey. Use a wooden spoon to scrape the bottom of the pan so that any stuck bits of pork come up.
+- Bring the sauce to a simmer and cook until reduced by half. Taste, then adjust the seasoning with additional salt, vinegar, or honey.
+- Slide the skillet off of the heat and when the sauce is no longer simmering, swirl in the butter.
+- Slide the pork chops back into the pan and spoon some of the sauce on top. Alternatively, slice the chops, then place them back into the pan. Scatter fresh parsley over the pork, and then serve.',0, 15, 4);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Meat','Pork Tenderloin','- 2 pork tenderloins, about 1 lb each
+- 1 tablespoon paprika
+- 2 teaspoons EACH: onion powder and garlic powder
+- 1 teaspoon EACH: oregano, salt, and pepper
+- 1 tablespoon cooking oil
+- 1/2 cup beef broth
+- 1 tablespoon apple cider vinegar
+- 1 tablespoon butter, can sub ghee for dairy-free
+- Minced parsley, to serve','- Preheat your oven to 400 degrees. Dry the pork tenderloins well with paper towels.
+- Mix the paprika, onion powder, garlic powder, oregano, salt, and pepper together in a small bowl. Rub this spice mix over all sides of the pork.
+- Heat the oil in a large frying pan over medium-high heat. Add the pork, working in 2 batches if your pan is not big enough to fit both tenderloins without them touching. Sear the pork on all sides until it is brown, about 6 minutes total. Take the pan off the heat.
+- Move the pork to a baking dish. If the spices left in the pan are black, wipe them away with a paper towel. Return the pan to the heat and add the beef broth. Scrape the bottom of the pan to remove any stuck-on bits then boil for 1 minute until it reduces to about ¼ cup. Pour this sauce over the pork.
+- Pour the apple cider vinegar over the pork then dot the top with the butter. Cover the baking dish with foil.
+- Bake the pork for 20-25 minutes, or until it reaches an internal temperature of 145 degrees. Let the pork rest for 5 minutes before slicing into 1/4 inch thick rounds. Serve with a little minced parsley, for color.',400, 25, 6);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Meat','Pork Sausage','- 1 tablespoon brown sugar
+- 2 teaspoons dried sage
+- 2 teaspoons salt
+- 1 teaspoon ground black pepper
+- 1/4 teaspoon dried marjoram
+- 1/8 teaspoon crushed red pepper flakes
+- 1 pinch ground cloves
+- 2 pounds ground pork','- Mix together brown sugar, sage, salt, black pepper, marjoram, red pepper flakes, and cloves in a small bowl until well combined.
+- Place pork in a large bowl. Add spice mixture and mix with your hands until well combined. Form mixture into 6 patties.
+- Heat a large skillet over medium-high heat. Add patties and saute until browned and crispy, about 5 minutes per side. An instant-read thermometer inserted into the center should read at least 160 degrees F (71 degrees C).
+- Serve hot and enjoy!',0, 10, 6);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Meat','Chicken Kebabs','- 1 cup plain whole milk Greek yogurt
+- 2 tablespoons extra-virgin olive oil
+- 2 teaspoons paprika
+- 1/2 teaspoon cumin
+- 1/8 teaspoon cinnamon
+- 1 teaspoon crushed red pepper flakes (reduce to 1/2 teaspoon for less heat)
+- Zest from one lemon
+- 2 tablespoons freshly squeezed lemon juice, from one lemon
+- 1 3/4 teaspoons salt
+- 1/2 teaspoon freshly ground black pepper
+- 5 garlic cloves, minced
+- 2 1/2 to 3 pounds boneless skinless chicken thighs, trimmed of excess fat and cut into 1½-inch pieces (see note)
+- 1 large red onion, cut into 1-inch chunks
+- Vegetable oil, for greasing the grill','- In a medium bowl, combine the yogurt, olive oil, paprika, cumin, cinnamon, red pepper flakes, lemon zest, lemon juice, salt, pepper and garlic.
+- Line a baking sheet with aluminum foil for easy clean up. Thread the chicken onto metal skewers, folding if the pieces are long and thin, alternating with the red onions. Be sure not to cram the skewers. (Note: You will need between 6-8 skewers.) Place the kabobs on the prepared baking sheet. Brush the marinade all over the meat, coating well. Cover and refrigerate at least eight hours or overnight.
+- Preheat the grill to medium-high heat. To grease the grill, lightly dip a wad of paper towels in vegetable oil and, using tongs, carefully rub over the grates several times until glossy and coated. Grill the chicken kabobs until golden brown and cooked through, turning the skewers occasionally, 13 to 15 minutes. (The yogurt marinade makes these kabobs prone to sticking to the grill grates; if necessary, use a metal BBQ spatula to scrape underneath the kabobs and release them.) Transfer the kabobs to a platter and serve.',0, 15, 6);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Meat','Chicken Tenders','- 1/4 cup all-purpose flour
+- 1 egg
+- 1 tablespoon water
+- 1 cup plain or Italian style panko crispy bread crumbs
+- 1/2 cup grated Parmesan cheese
+- 1 1/4 pounds (20 oz) chicken breast tenders
+- Favorite dipping sauce','- Heat oven to 425°F. Line cookie sheet with foil; spray with cooking spray.
+- In shallow dish, place flour. In another shallow dish, beat egg and water. In third shallow dish, mix bread crumbs and cheese. Coat chicken with flour; dip into egg mixture, then coat with bread crumb mixture. Place on cookie sheet.
+- Bake 15 to 20 minutes, turning once, until chicken is no longer pink in center and coating is golden brown. Serve with dipping sauce.',425, 20, 4);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Meat','Chicken Fried Rice','- 1 egg
+- 1 tablespoon water
+- 1 tablespoon vegetable oil
+- 1 onion, chopped
+- 2 cups cooked white rice, cold
+- 1 cup cooked, chopped chicken meat
+- 2 tablespoons soy sauce
+- 1 teaspoon ground black pepper','- Beat egg and water together in small bowl. Melt butter in a large skillet or wok over medium-low heat; add egg and cook without stirring, 1 to 2 minutes. Remove egg from skillet and cut into shreds; set aside.
+- Heat oil in the same skillet. Add onion; cook and stir until soft, about 3 minutes. Stir in rice, chicken, soy sauce, and pepper. Cook and stir for about 5 minutes; stir in shredded egg. Serve hot.',0, 10, 4);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Meat','Salmon','- 1 1/2 pounds salmon fillets
+- lemon pepper to taste
+- garlic powder to taste
+- salt to taste
+- 1/3 cup soy sauce
+- 1/3 cup brown sugar
+- 1/3 cup water
+- 1/4 cup vegetable oil','- Season salmon fillets with lemon pepper, garlic powder, and salt.
+- Stir soy sauce, brown sugar, water, and vegetable oil together in a small bowl until sugar is dissolved. Place fish in a large resealable plastic bag; add soy sauce mixture, seal, and turn to coat. Refrigerate for at least 2 hours.
+- Preheat an outdoor grill for medium heat and lightly oil the grate.
+- Place salmon on the preheated grill, and discard marinade. Cook salmon until fish flakes easily with a fork, about 6 to 8 minutes per side.
+- Serve with a side of grilled zucchini or grilled corn.',0, 15, 6);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Meat','Ribs','- 4 pounds (2 kg) baby back pork ribs
+- 2 teaspoons garlic powder
+- 1 teaspoon onion powder
+- 2 teaspoons paprika
+- 2 teaspoons salt
+- 1 teaspoon cracked black pepper
+- 1/2 teaspoon cumin
+- 1 teaspoon chili or Cayenne powder (optional)
+- 2 tablespoons olive oil
+~for sauce~
+- 2 cups (500ml) barbecue sauce
+- 3 tablespoons minced garlic
+- 2 tablespoons olive oil
+- 1 tablespoon Worcestershire sauce
+- 1/2 - 1 tablespoon cayenne pepper (optional for heat)
+- 1 teaspoon salt','- Preheat oven to 350°F (180°C).
+- Peel off tough membrane that covers the underside/bony side of the ribs. Place on a baking sheet or tray lined with foil (or parchment paper).
+- Combine together garlic powder, onion powder, paprika, salt, pepper, cumin and chili or Cayenne. Sprinkle seasoning over ribs and drizzle with oil. Rub the seasoning all over the ribs on both sides. Cover tray with foil and bake for 2 hours.
+- During the last 5 minutes of cook time, mix together sauce ingredients.
+- Remove ribs from the oven, remove foil and spread the tops of the ribs with the barbecue sauce mixture.
+- Increase oven temperature to 460°F (240°C). Return ribs to the oven, uncovered, and bake for a further 10 minutes. Change oven settings to broil (or grill) on medium-high heat to lightly char and caramelise the edges (about 3 minutes).
+- Rest for 10 minutes to allow the juices to recirculate back into the meat before slicing.',350, 135, 4);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Meat','Meatloaf','- 1 1/2 pounds ground beef
+- 1 egg
+- 1 onion, chopped
+- 1 cup milk
+- 1 cup dried bread crumbs
+- salt and pepper to taste
+- 1/3 cup ketchup
+- 2 tablespoons brown sugar
+- 2 tablespoons prepared mustard','- Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x5-inch loaf pan.
+- Combine ground beef, onion, milk, bread crumbs and egg in a large bowl; season with salt and pepper. Transfer into prepared loaf pan.
+- Mix ketchup, brown sugar, and mustard together in a small bowl until well combined; pour over meatloaf and spread it evenly over the top.
+- Bake in the preheated oven until no longer pink in the center, about 1 hour.',350, 60, 8);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Meat','Meatballs','- 1 lb lean (at least 80%) ground beef
+- 1/2 cup Progresso Italian-style bread crumbs
+- 1/4 cup milk
+- 1/2 teaspoon salt
+- 1/2 teaspoon Worcestershire sauce
+- 1/4 teaspoon pepper
+- 1 small onion, finely chopped (1/4 cup)
+- 1 egg','- Heat oven to 400°F. Line 13x9-inch pan with foil; spray with cooking spray.
+- In large bowl, mix all ingredients. Shape mixture into 24 (1 1/2-inch) meatballs. Place 1 inch apart in pan.
+- Bake uncovered 18 to 22 minutes or until temperature reaches 160°F and no longer pink in center.',400, 22, 4);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Soups&Stews','Chicken Noodle Soup','- 2 tablespoons extra-virgin olive oil
+- 1 medium-size (9 oz.) yellow onion, chopped (about 2 cups)
+- 3 medium carrots, thinly sliced (about 1 cup)
+- 2 large celery stalks, chopped (about 1 cup)
+- 2 large garlic cloves, minced (about 1 Tbsp.)
+- 1 rotisserie chicken, skin and bones discarded, meat shredded (about 3 to 4 cups shredded chicken)
+- 8 cups lower-sodium chicken broth
+- 1 teaspoon Italian seasoning
+- 1/2 teaspoon kosher salt
+- 1/4 teaspoon black pepper
+- 2 cups uncooked wide egg noodles
+- Chopped fresh flat-leaf parsley','- Heat oil in a large Dutch oven over medium-high. Add onion, carrots, celery, and garlic to Dutch oven; cook, stirring often, until vegetables are just soft, about 8 minutes. Stir in chicken, broth, Italian seasoning, salt, and pepper; bring to a boil. Reduce heat to medium, and gently boil 6 minutes. Add noodles to Dutch oven. Reduce heat to medium-low, and cook until noodles are tender, about 6 minutes. Garnish with chopped parsley.',0, 15, 4);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Soups&Stews','Clam Chowder','- 2 cups cubed potatoes
+- 1 cup diced carrots
+- 1 cup diced celery
+- 1 cup minced onion
+- 3 (6.5 ounce) cans minced clams, drained with juice reserved
+- water to cover
+- 3/4 cup butter
+- 3/4 cup all-purpose flour
+- 1 quart half-and-half cream
+- 2 tablespoons red wine vinegar
+- 1 1/2 teaspoons salt
+- ground black pepper to taste','- Place potatoes, carrots, celery, and onion into a large skillet; pour in clam juice and add enough water to cover. Cook and stir over medium-low heat until vegetables are tender.
+- Meanwhile, melt butter in a large, heavy saucepan over medium heat. Whisk in flour until smooth. Whisk in cream and stir constantly until thick and smooth. Stir in vegetable mixture with any juices until just heated through.
+- Stir in clams just before serving. If they cook too much they get tough. When clams are heated through, stir in vinegar and season with salt and pepper.',0, 25, 8);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Soups&Stews','Corn Chowder','- 2 tablespoons butter
+- 4 scallions, white bulbs and green tops chopped and reserved separately
+- 1 red bell pepper, chopped
+- 4 ribs celery, chopped
+- 1 pound (about 3) boiling potatoes, peeled and cut into 1/2-inch dice
+- 4 cups fresh corn kernels (cut from 6 to 8 ears), divided
+- 1 bay leaf
+- 1 (32-ounce) can low-sodium chicken broth or homemade stock
+- 2 teaspoons kosher salt
+- 2 cups milk
+- 1/4 teaspoon freshly ground black pepper
+- Sour cream, for serving (optional)','- In a large saucepan, melt butter over moderately low heat. Add scallion bulbs, bell pepper, and celery. Cook, stirring occasionally, until vegetables start to soften, about 10 minutes.
+- Stir in potatoes, 2 cups corn, bay leaf, broth, and salt. Bring to a boil. Reduce heat and simmer, stirring occasionally, for 15 minutes.
+- In a blender or food processor, puree remaining 2 cups corn with milk.
+- Stir puree into soup along with black pepper. Simmer until soup thickens slightly, 5 to 10 minutes.
+- Remove bay leaf. Stir in scallion greens. Top each serving with a dollop of sour cream, if using.',0, 25, 4);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Soups&Stews','Beef Chili','- 2 pounds beef petite tender steak (aka shoulder tender), trimmed and cut into 1-inch cubes
+- 2 tablespoons olive oil
+- 1 yellow onion, chopped
+- 4 garlic cloves, chopped
+- 2 to 3 teaspoons chipotle chile powder
+- 2 teaspoons dried oregano
+- 2 teaspoons ground cumin
+- 1 (6-oz.) can tomato paste
+- 5 (4.5-oz.) cans chopped green chiles
+- 4 cups chicken broth
+- 1 (14.5-oz.) can stewed tomatoes
+- 2 tablespoons plain yellow cornmeal
+- Toppings: green onions, fried onion rings, sour cream, Cheddar cheese','- Sprinkle beef with desired amount of salt and pepper. Cook beef in hot oil in a large, enamel cast-iron Dutch oven over medium-high heat, stirring often, 5 to 6 minutes or until browned. Transfer beef to a platter.
+- Add onion to Dutch oven, and cook, stirring often, 3 minutes or until tender. Add garlic and next 3 ingredients; cook, stirring constantly, 2 minutes. Stir in tomato paste, and cook, stirring constantly, 2 minutes.
+- Add chiles, next 2 ingredients, beef, and 1 cup water; bring to a boil. Boil, stirring occasionally, 20 minutes. Add salt to taste. Sprinkle with cornmeal. Cook, stirring constantly, 5 minutes or until thickened. Serve with desired toppings',0, 25, 4);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Soups&Stews','Turkey Chili','- 2 teaspoons olive oil
+- 1 yellow onion, chopped
+- 3 garlic cloves, minced
+- 1 medium red bell pepper, chopped
+- 1 pound extra lean ground turkey or chicken (99%)
+- 4 tablespoons chili powder* (I used McCormick chili powder - please read the notes section on this)
+- 2 teaspoons ground cumin
+- 1 teaspoon dried oregano
+- 1/4 teaspoon cayenne pepper
+- 1/2 teaspoon salt, plus more to taste
+- 1 (28-ounce) can diced tomatoes or crushed tomatoes
+- 1 1/4 cups chicken broth
+- 2 (15 oz) cans dark red kidney beans, rinsed and drained
+- 1 (15 oz) can sweet corn, rinsed and drained
+- For topping: cheese, avocado, tortilla chips, cilantro, sour cream','- Place oil in a large pot and place over medium high heat. Add in onion, garlic and red pepper and saute for 5-7 minutes, stirring frequently.
+- Add in ground turkey and break up the meat; cooking until no longer pink. Next add in chili powder, cumin, oregano, cayenne pepper and salt; stir for about 20 seconds.
+- Next add in tomatoes, chicken broth, kidney beans and corn. Bring to a boil, then reduce heat and simmer for 30-45 minutes or until chili thickens and flavors come together. Taste and adjust seasonings and salt as necessary.
+- Garnish with anything you would like. Makes 6 servings, about 1 1/2 cups each.',0, 45, 6);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Soups&Stews','Beef & Orzo Soup','- 1 cup chopped onion
+- 1 tablespoon canola oil
+- 1 cup chopped carrots
+- 1 (8-oz.) package sliced button mushrooms
+- 2 cups chopped Zesty Pot Roast
+- 1 cup tomato mixture reserved from Zesty Pot Roast
+- 1/2 cup uncooked orzo or other small pasta
+- 1 (32-oz.) container beef broth','- Sauté onion in hot oil in a Dutch oven over medium-high heat 5 to 6 minutes or until lightly browned. Add carrots and mushrooms, and cook, stirring occasionally, 8 to 10 minutes or until mushrooms are tender. Add remaining ingredients, and bring to a boil. Reduce heat to medium, and simmer, stirring occasionally, 5 to 6 minutes or until orzo is al dente and soup is thoroughly heated.',0, 25, 8);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Soups&Stews','Tomato Soup','- 4 tablespoons unsalted butter
+- 1/2 large onion, cut into large wedges
+- 1 (28-ounce) can tomatoes, we prefer to use whole peeled or crushed, see notes for fresh tomatoes
+- 1 1/2 cups water, low sodium vegetable stock, or chicken stock
+- 1/2 teaspoon fine sea salt, or more to taste','Melt butter over medium heat in a Dutch oven or large saucepan.
+- Add onion wedges, water, can of tomatoes with their juices, and 1/2 teaspoon of salt. Bring to a simmer. Cook, uncovered, for about 40 minutes. Stir occasionally and add additional salt as needed.
+- Blend the soup, and then season to taste. The soup does not need to be ultra-smooth, some texture is a nice touch. An immersion blender does make quick work of this, or you can use a blender. If you use a regular blender, it is best to blend in batches and not fill the blender as much as you usually would since the soup is so hot. We like to remove the center insert of the lid and cover it with a kitchen towel while blending — this helps to release some of the steam and prevents the blender lid from popping off (which can be a big, hot mess).',0, 40, 2);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Soups&Stews','Lentil Soup','- 5 cups lower-sodium chicken broth
+- 2 cups water
+- 1 (14-oz.) can petite diced tomatoes
+- 2 cups dried green lentils
+- 3 medium (3 oz. each) carrots, sliced into 1/4-in.-thick rounds (about 1 cup)
+- 1 small (6 oz.) red onion, chopped (about 1 cup)
+- 3 medium (2 oz. each) celery stalks, cut into 1/2-in. cubes (about 3/4 cup)
+- 2 medium garlic cloves, minced (about 2 tsp.)
+- 1/4 teaspoon dried thyme
+- 1/4 teaspoon tsp. dried marjoram
+- 1 1/2 tablespoons red wine vinegar
+- 2 teaspoons kosher salt
+- 1/2 teaspoon black pepper
+- 1/4 cup chopped fresh flat-leaf parsley
+- 2/3 ounce Parmesan cheese, grated with a Microplane grater (about 1/4 cup)','- Stir together broth, water, tomatoes, lentils, carrots, onion, celery, garlic, thyme, and marjoram in a 5-quart slow cooker. Cover and cook on LOW until lentils and vegetables are tender, 6 to 7 hours.
+- Transfer 2 cups lentil mixture to a blender. Secure lid on blender, and remove center piece to allow steam to escape. Place a clean towel over opening. Process until smooth, about 45 seconds. Stir back into mixture in slow cooker. Stir in vinegar, salt, and pepper. Ladle soup evenly into 6 bowls; sprinkle with parsley and cheese.',0, 360, 6);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Soups&Stews','Chicken Tortilla Soup','- 10 (6-in.) corn tortillas, divided
+- 3 tablespoons olive oil, divided
+- 2 1/4 teaspoons kosher salt, divided
+- 1 teaspoon dried oregano
+- 2 teaspoons ground cumin, divided
+- 2 teaspoons ancho chili powder, divided
+- 2 pounds boneless, skinless chicken thighs
+- 1 large (12 oz.) yellow onion, chopped
+- 2 medium (3 oz. each) poblano chiles, chopped
+- 1 medium-size (8 oz.) red bell pepper, chopped
+- 4 medium garlic cloves, chopped
+- 2 tablespoons tomato paste
+- 4 cups chicken stock
+- 2 (10-oz.) cans diced tomatoes and green
+- 1/4 cup fresh lime juice
+- 1/2 cup fresh cilantro leaves, chopped
+- 2 medium (7 oz. each) avocados, sliced','- Preheat oven to 350°F. Line a rimmed baking sheet with parchment paper. Cut 6 of the tortillas in half crosswise; cut halves into 1/4-inch-wide strips. Place tortilla strips and 1 tablespoon of the oil in a small bowl; toss to coat. Spread in a single layer on prepared baking sheet. Bake in preheated oven until crispy and lightly browned, about 15 minutes. Sprinkle with 1/4 teaspoon of the salt. Set aside.
+- Stir together oregano and 1 teaspoon each of the cumin, ancho chile powder, and salt in a small bowl. Sprinkle mixture evenly over both sides of chicken thighs.
+- Select SAUTÉ setting on a programmable pressure multicooker (such as Instant Pot). (Times, instructions, and settings may vary according to cooker brand or model.) Select HIGH temperature setting, add remaining 2 tablespoons oil, and allow to preheat until oil is shimmering, 5 to 6 minutes. Add half of chicken, and cook until lightly browned, 2 to 3 minutes per side. Remove to a plate, and repeat with remaining chicken. Add onion, poblanos, bell pepper, and garlic to cooker, and cook, stirring often, until vegetables are slightly softened, about 5 minutes. Add tomato paste and remaining 1 teaspoon each salt, cumin, and chile powder; cook, stirring constantly, 1 minute. Stir in chicken stock, tomatoes, and chicken.4. Press CANCEL on multicooker. Cover cooker with lid, and lock in place. Turn steam release handle to SEALING position. Select MANUAL/PRESSURE COOK setting. Select HIGH pressure for 8 minutes. (It will take 10 to 15 minutes for cooker to come up to pressure before cooking begins.) When cooking has stopped, carefully turn steam release handle to VENTING position, and let steam fully escape (float valve will drop). (This will take 3 to 4 minutes.) Remove lid from cooker. Remove chicken from cooker, and shred with 2 forks; return meat to cooker. Chop remaining 4 corn tortillas. Add chopped tortillas and lime juice to cooker, and stir until tortillas begin to dissolve and slightly thicken broth. Top soup with crisp tortilla strips, cilantro, and avocado slices.',350, 35, 8);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Soups&Stews','Sweet Potato Soup','- 2 tablespoons olive oil
+- 1 1/2 cups chopped yellow onion (from 1 large onion)
+- 1 cup roughly chopped carrots (3 carrots)
+- 1 tablespoon chopped garlic
+- 3 pounds sweet potatoes, peeled and cut into 1/2-inch cubes
+- 2 pounds Yukon Gold potatoes, peeled and cut into 1/2-inch cubes
+- 1 1/2 teaspoons kosher salt
+- 1 teaspoon black pepper
+- 1 teaspoon ground cumin
+- 1/4 teaspoon ground cinnamon
+- 1/8 teaspoon cayenne pepper
+- 7 cups chicken stock
+- 2 tablespoons salted butter
+- 1 cup finely chopped pecans
+- 1/2 cup plain yogurt
+- 1/4 cup torn fresh flat-leaf parsley leaves','- Heat oil in a large Dutch oven over medium-high. Add onion and carrots, and cook, stirring, until softened, about 5 minutes. Add garlic, and cook, stirring, until fragrant, 1 minute. Add sweet potatoes, Yukon Gold potatoes, salt, black pepper, cumin, cinnamon, and cayenne pepper, and cook, stirring, 1 minute. Add stock; bring to a boil. Reduce heat to medium-low, and simmer until potatoes are very tender, about 30 minutes.
+- Melt butter in a skillet over medium-high. Add pecans, and cook, stirring often, until toasted, about 8 minutes. Transfer to a bowl.
+- Transfer potato mixture, in batches, to a blender. Remove center piece of blender lid (to allow steam to escape); secure lid on blender, and place a clean towel over opening in lid. Process until smooth. (Or process soup in Dutch oven using an immersion blender.)
+- Top servings with 2 tablespoons pecans, 1 tablespoon yogurt, and 1/2 tablespoon parsley.',0, 20, 8);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Soups&Stews','Broccoli-Cheddar Soup','- 2 tablespoons unsalted butter
+- 1 cup chopped yellow onion (about 1 medium onion)
+- 2 teaspoons finely chopped garlic (about 2 garlic cloves)
+- 1 cup chopped peeled russet potato (from 1 small potato)
+- 1/2 cup chopped carrot (about 1 large carrot)
+- 2 cups chicken broth or vegetable broth
+- 2 cups half-and-half
+- 1 teaspoon kosher salt
+- 4 cups chopped broccoli florets (from 1 [12-oz.] head])
+- 8 ounces sharp Cheddar cheese, shredded (about 2 cups), plus more for serving','- Melt butter in a large Dutch oven over medium until foamy. Add onion, and cook, stirring often, until softened and translucent, about 4 minutes. Add garlic, and cook, stirring constantly, until fragrant, about 1 minute. Add potato and carrot; cook, stirring often, 1 minute. Increase heat to high; stir in broth, half-and-half, and salt, and bring to a boil. Reduce heat to medium, cover, and simmer until potato and carrot are tender, about 10 minutes.
+- Add broccoli, and continue to simmer, uncovered, until broccoli is tender and bright green, about 5 to 6 minutes. Working in batches, if needed, pour soup into a blender. Secure lid on blender, and remove center piece to allow steam to escape. Place a clean towel over opening. Process until smooth, about 30 to 45 seconds, and return to Dutch oven.
+- Heat soup over medium-low; gradually add cheese, stirring until completely melted after each addition. Serve soup topped with sprinkled cheese.',0, 30, 6);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Soups&Stews','Black Bean Soup','- 1 pound dried black beans
+- 1 medium (about 2 1/2 oz.) poblano chile, seeded and chopped (about 1/3 cup)
+- 6 cups chicken broth
+- 1 cup chopped white onion (from 1 medium onion)
+- 1/2 cup chopped carrot (from 1 large carrot)
+- 1 tablespoon chili powder
+- 2 teaspoons finely chopped garlic (from 2 garlic cloves)
+- 1 teaspoon ground cumin
+- 1 (14.5-oz.) can fire-roasted diced tomatoes, undrained
+- 1 teaspoon kosher salt
+- Toppings: sour cream, avocado slices, fresh cilantro leaves, chopped fresh tomatoes, black pepper','- Place beans, poblano, broth, onion, carrot, chili powder, garlic, and cumin in a 6- to 8-quart slow cooker. Cover and cook on LOW 7 hours. Add fire-roasted diced tomatoes and salt to slow cooker, cover, and continue cooking on LOW until thoroughly heated, about 1 hour. Serve with choice of toppings.',0, 480, 4);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Soups&Stews','Potato Soup','- 1/4 cup salted butter
+- 3 tablespoons all-purpose flour
+- 1 1/2 pounds russet potatoes, peeled and cubed (about 4 cups)
+- 4 cups chicken stock
+- 1 pound Yukon Gold potatoes, peeled and cubed (about 2 1/2 cups)
+- 3/4 cup heavy whipping cream
+- 1 1/2 teaspoons kosher salt
+- 1 teaspoon black pepper
+- 4 thick-cut bacon slices, cooked and crumbled (about 1/2 cup)
+- 3 ounces Cheddar cheese, grated (about 3/4 cup)
+- 1/4 cup chopped fresh chives','- Select SAUTÉ setting on a programmable pressure multicooker (such as Instant Pot). (Times, instructions, and settings may vary according to cooker brand or model.) SelectHIGH temperature setting, and allow to preheat 2 to 3 minutes. Add butter to cooker, and cook until melted, about 1 minute. Sprinkle with flour, and stir to combine. Add russet potatoes and stock. Press CANCEL.
+- Cover cooker with lid, and lock in place. Turn steam release handle to SEALING position. Select MANUAL/PRESSURE COOK setting. Select HIGH pressure for 5 minutes. (It will take 15 to 20 minutes for cooker to come up to pressure before cooking begins.)
+- Carefully turn steam release handle to VENTING position, and let steam fully escape (float valve will drop). (This will take 1 to 2 minutes.) Remove lid from cooker. Mash russet potatoes with a potato masher until partially mashed. Add Yukon Gold potatoes. Cover cooker with lid, and lock in place. Turn steam release handle to SEALING position. Select MANUAL/PRESSURE COOK setting. Select HIGH pressure for 5 minutes. (It will take 10 to 15 minutes to come to pressure before cooking begins.)
+- Carefully turn steam release handle to VENTING position, and let steam fully escape (float valve will drop). (This will take 1 to 2 minutes.) Remove lid from cooker, and stir in whipping cream, salt, and pepper. Divide soup evenly among 4 bowls, and top evenly with bacon, cheese, and chives.',0, 15, 4);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Soups&Stews','Carrot Soup','- 2 1/2 pounds large carrots, cut into 1-inch pieces
+- 1 medium-size sweet onion, cut into wedges
+- 1/2 cup plus 2 Tbsp. extra-virgin olive oil, divided
+- 3 1/2 teaspoons kosher salt, divided
+- 7 garlic cloves, divided
+- 3 ounces Parmigiano-Reggiano cheese, coarsely chopped into 1-inch pieces
+- 1 cup fresh or thawed frozen English peas
+- 1 cup loosely packed fresh basil leaves
+- 3 tablespoons fresh lemon juice (from 1 lemon)
+- 5 cups vegetable stock, divided
+- 1/2 teaspoon ground cumin
+- 1/4 teaspoon cayenne pepper
+- 1/4 cup unsalted butter, cut into cubes
+- 1 tablespoon sherry vinegar
+- 2 teaspoons pure maple syrup
+- 1 cup heavy whipping cream, divided','- Preheat oven to 400°F. Toss together carrots, onion, 2 tablespoons of the oil, 1 teaspoon of the salt, and 5 of the garlic cloves on a large rimmed baking sheet, and spread out evenly. Roast until vegetables are very tender and starting to brown, 30 to 40 minutes. Remove from oven; cool 5 minutes.
+- While vegetables roast, place cheese, peas, basil, ¼ cup water, lemon juice, 1 teaspoon of the salt, and remaining ½ cup oil and 2 garlic cloves in a blender. Process until smooth, stopping to scrape down sides as needed, about 2 minutes. Transfer mixture to a small bowl; set aside. Rinse blender, and wipe dry.
+- Add cooled vegetable mixture and 3 cups of the stock to blender. Process until smooth, stopping to scrape down sides as needed, about 2 minutes. (If needed, process in batches.) Transfer to a large saucepan.
+- Stir cumin, cayenne, and remaining 2 cups stock and 1 ½ teaspoons salt into carrot mixture in saucepan. Cover; bring mixture to a simmer over medium, stirring occasionally to prevent bottom from scorching (this will take about 10 minutes). Remove from heat. Add butter, vinegar, maple syrup, and ¾ cup of the cream; stir until butter is melted. Ladle soup into 6 bowls. Top each with 1 tablespoon pesto, and 2 teaspoons cream. (Reserve remaining pesto for another use.)',400, 40, 6);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Soups&Stews','French Onion Soup','- 2 pounds Vidalia onions, thinly sliced (about 8 cups sliced)
+- 1/4 cup unsalted butter, melted
+- 1 1/2 teaspoons granulated sugar
+- 1 1/2 teaspoons kosher salt
+- 1/2 teaspoon black pepper, plus more for garnish
+- 6 thyme sprigs, tied with kitchen twine
+- 1 dried bay leaf
+- 5 cups lower-sodium beef broth
+- 1 tablespoon sherry vinegar
+- 12 (1/2-inch-thick) baguette slices
+- 6 ounces Gruyère cheese, shredded (about 1 1/2 cups)
+- Fresh thyme leaves','- Stir together onions, melted butter, sugar, salt, and pepper in a 6-quart slow cooker until onions are fully coated. Place thyme and bay leaf on onion mixture. Cover and cook on HIGH, stirring once halfway through, until onions are deep golden brown and caramelized, 6 to 7 hours.
+- Remove and discard thyme and bay leaf. Stir in broth and vinegar. Cover and cook on HIGH until thoroughly heated, about 30 minutes.
+- Preheat oven to broil, with oven rack about 6 inches from heat. Spoon soup into 6 ovenproof ramekins; place on a large rimmed baking sheet. Top each ramekin with 2 baguette slices; divide cheese evenly among ramekins (about ¼ cup each).Broil until cheese is melted and golden brown, about 3 minutes. Sprinkle with fresh thyme leaves and black pepper. Serve immediately.',0, 450, 6);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Side Dishes','Spinach Artichoke Dip','- 1 package (8 ounces) cream cheese, softened
+- 1/2 cup grated Parmesan cheese
+- 1/4 cup mayonnaise
+- 1 garlic clove, minced
+- 1 teaspoon dried basil
+- 1/4 teaspoon garlic salt
+- 1/4 teaspoon pepper
+- 1 can (14 ounces) water-packed artichoke hearts, rinsed, drained and chopped
+- 1/2 cup frozen chopped spinach, thawed and squeezed dry
+- 1/4 cup shredded mozzarella cheese
+- Assorted crackers','- In a large bowl, combine the cream cheese, Parmesan cheese, mayonnaise, garlic, basil, garlic salt and pepper; mix well. Stir in the artichokes and spinach. Transfer to a greased 9-in. pie plate. Sprinkle with mozzarella cheese. Bake, uncovered, at 350° for 20-25 minutes or until bubbly and edge is lightly browned. Serve with crackers.',350, 25, 3);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Side Dishes','Chicken Parm Slider','- 24 ounces frozen breaded chicken tenders
+- 1 package (12 ounces) Hawaiian sweet rolls
+- 14 slices provolone cheese, divided
+- 1 jar (24 ounces) marinara sauce
+- 1/2 cup butter, cubed
+- 1 teaspoon garlic powder
+- 1 teaspoon crushed red pepper flakes
+- 1/4 cup grated Parmesan cheese
+- 2 tablespoons minced fresh basil','- Preheat oven to 375°. Prepare chicken tenders according to package directions. Meanwhile, without separating rolls, cut horizontally in half; arrange roll bottoms in a greased 13x9-in. baking dish. Place 8 cheese slices over roll bottoms, overlapping as needed. Bake until cheese is melted, 3-5 minutes.
+- Layer rolls with half of sauce, chicken tenders, remaining sauce and remaining 6 cheese slices. Replace top halves of rolls.
+- For topping, microwave butter, garlic powder and red pepper flakes, covered, on high, stirring occasionally, until butter is melted. Pour over rolls; sprinkle with Parmesan cheese. Bake, uncovered, until golden brown and heated through, 20-25 minutes. Sprinkle with basil before serving.',375, 30, 12);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Side Dishes','Buffalo Chicken Dip','- 1 package (8 ounces) cream cheese, softened
+- 1 cup chopped cooked chicken breast
+- 1/2 cup Buffalo wing sauce
+- 1/2 cup ranch or blue cheese salad dressing
+- 2 cups shredded Colby-Monterey Jack cheese
+- French bread baguette slices, celery ribs or tortilla chips','- Preheat oven to 350°. Spread cream cheese into an ungreased shallow 1-qt. baking dish. Layer with chicken, wing sauce and salad dressing. Sprinkle with cheese.
+- Bake, uncovered, until cheese is melted, 20-25 minutes. Serve with baguette slices.',350, 25, 4);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Side Dishes','Stuffed Cherry Tomatoes','- 24 cherry tomatoes
+- 3 ounces cream cheese, softened
+- 2 tablespoons mayonnaise
+- 1/4 cup finely chopped peeled cucumber
+- 1 tablespoon finely chopped green onion
+- 2 teaspoons minced fresh dill','- Cut a thin slice off the top of each tomato. Scoop out and discard pulp; invert tomatoes onto paper towels to drain.
+- In a small bowl, combine cream cheese and mayonnaise until smooth; stir in the cucumber, onion and dill. Spoon into tomatoes. Refrigerate until serving.',0, 25, 24);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Side Dishes','Chicken Skewers','- 1 pound boneless skinless chicken breasts
+- 1/4 cup olive oil
+- 1/4 cup reduced-sodium soy sauce
+- 2 garlic cloves, minced
+- 1/8 teaspoon pepper
+- 2 tablespoons chopped seeded jalapeno pepper
+- 1 teaspoon minced fresh gingerroot
+- 3/4 cup orange marmalade
+- 1 tablespoon lime juice
+- 1 tablespoon thawed orange juice concentrate
+- 1/4 teaspoon salt','- Pound chicken breasts with a meat mallet to 1/4-in. thickness; cut lengthwise into 1-in.-wide strips. In a large resealable plastic bag, combine oil, soy sauce, garlic and pepper. Add chicken; seal bag and turn to coat. Refrigerate 4 hours or overnight.
+- In a small saucepan, heat butter over medium-high heat. Add jalapeno; cook and stir until tender. Add ginger; cook 1 minute longer. Reduce heat; stir in marmalade, lime juice, orange juice concentrate and salt.
+- Preheat broiler. Drain chicken, discarding marinade. Thread chicken strips, weaving back and forth, onto eight metal or soaked wooden skewers. Place in a greased 15x10x1-in. baking pan. Broil 6 in. from heat 2-4 minutes on each side or until chicken is no longer pink. Serve with sauce.',0, 25, 8);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Side Dishes','Hummus Nachos','- 1/2 pound lean ground beef (90% lean)
+- 1 tablespoon pine nuts
+- 1/4 teaspoon salt
+- 1/8 teaspoon pepper
+- 6 tablespoons plain yogurt, divided
+- 1 package (7.33 ounces) baked pita chips
+- 1 cup prepared tabbouleh
+- 1/2 cup hummus
+- 1 large tomato, chopped
+- 1/4 cup sliced ripe olives
+- 1 tablespoon minced fresh parsley
+- 1 tablespoon minced fresh mint
+- Chopped red onion, optional','- In a small skillet, cook beef over medium heat until no longer pink, 4-6 minutes, breaking it into crumbles; drain. Stir in pine nuts, salt and pepper; cool slightly. Stir in 2 tablespoons yogurt.
+- Arrange pita chips on a serving platter. Layer with beef mixture, tabbouleh, hummus, tomato, olives, parsley, mint, remaining yogurt and, if desired, onion. Serve immediately.',0, 30, 6);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Side Dishes','Sriracha Spring Rolls','- 3 cups coleslaw mix (about 7 ounces)
+- 3 green onions, chopped
+- 1 tablespoon soy sauce
+- 1 teaspoon sesame oil
+- 1 pound boneless skinless chicken breasts
+- 1 teaspoon seasoned salt
+- 2 packages (8 ounces each) cream cheese, softened
+- 2 tablespoons Sriracha chili sauce
+- 1 package (24 to 28 each) spring roll wrappers, thawed
+- Oil for deep-fat frying
+- Sweet chili sauce, optional','- Toss coleslaw mix, onions, soy sauce and sesame oil; let stand while cooking chicken. In a saucepan, bring 4 cups water to a boil. Reduce heat to maintain a simmer. Add chicken; cook, covered, until a thermometer inserted in chicken reads 165°, 15-20 minutes. Remove chicken; cool slightly. Finely chop chicken; toss with seasoned salt.
+- In a large bowl, mix cream cheese and chili sauce; stir in chicken and coleslaw mixture. With a corner of a spring roll wrapper facing you, place about 2 tablespoons filling just below center of wrapper. (Cover remaining wrappers with a damp paper towel until ready to use.) Fold bottom corner over filling; moisten remaining edges with water. Fold side corners toward center over filling; roll up tightly, pressing tip to seal. Repeat.
+- In a cast-iron Dutch oven or electric skillet, heat oil to 375°. Fry spring rolls, a few at a time, until golden brown, 6-8 minutes, turning occasionally. Drain on paper towels. If desired, serve with sweet chili sauce.',375, 20, 24);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Side Dishes','Taco Joe Dip','- 1 can (16 ounces) kidney beans, rinsed and drained
+- 1 can (15-1/4 ounces) whole kernel corn, drained
+- 1 can (15 ounces) black beans, rinsed and drained
+- 1 can (14-1/2 ounces) stewed tomatoes, undrained
+- 1 can (8 ounces) tomato sauce
+- 1 can (4 ounces) chopped green chiles, drained
+- 1 envelope taco seasoning
+- 1/2 cup chopped onion
+- Thinly sliced green onions, optional
+- Tortilla chips and fresh mini bell peppers','- In a 5-qt. slow cooker, combine the first 8 ingredients. Cover and cook on low for 5-6 hours. If desired, sprinkle with green onions. Serve the dip with tortilla chips and mini peppers.
+- To make Taco Joe Soup, add a 29-ounce can of tomato sauce to the slow cooker. It will serve 6-8.',0, 300, 7);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Side Dishes','Chicken Pot Stickers','- 1 pound boneless skinless chicken thighs, cut into chunks
+- 1-1/2 cups sliced fresh mushrooms
+- 1 small onion, cut into wedges
+- 2 tablespoons hoisin sauce
+- 2 tablespoons prepared mustard
+- 2 tablespoons Sriracha chili sauce or 1 tablespoon hot pepper sauce
+- 1 package (10 ounces) pot sticker or gyoza wrappers
+- 1 large egg, lightly beaten
+~for sauce~
+- 1 cup reduced-sodium soy sauce
+- 1 green onion, chopped
+- 1 teaspoon ground ginger','- In a food processor, combine chicken, mushrooms, onion, hoisin sauce, mustard and chili sauce; cover and process until blended.
+- Place 1 tablespoon chicken mixture in the center of 1 wrapper. (Until ready to use, keep remaining wrappers covered with a damp towel to prevent them from drying out.) Moisten entire edge with egg. Fold wrapper over filling to form a semicircle. Press edges firmly to seal, pleating the front side to form several folds.
+- Holding sealed edge, place each dumpling on an even surface; press to flatten bottom. Curve ends to form a crescent shape. Repeat with remaining wrappers and filling.
+- Working in batches, arrange pot stickers in a single layer on a large greased steamer basket rack; place in a Dutch oven over 1 in. of water. Bring to a boil; cover and steam until filling juices run clear, 5-7 minutes. Repeat with remaining pot stickers.
+- Meanwhile, in a small bowl, combine sauce ingredients. Serve with pot stickers. Refrigerate leftovers.',0, 5, 48);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Side Dishes','Tangy Chicken Wings','- 12 chicken wings (about 3 pounds)
+- 1/2 teaspoon salt, divided
+- Dash pepper
+- 1-1/2 cups ketchup
+- 1/4 cup packed brown sugar
+- 1/4 cup red wine vinegar
+- 2 tablespoons Worcestershire sauce
+- 1 tablespoon Dijon mustard
+- 1 teaspoon minced garlic
+- 1 teaspoon liquid smoke, optional
+- Optional: Sliced jalapeno peppers, finely chopped red onion and sesame seeds','- Using a sharp knife, cut through the 2 wing joints; discard wingtips. Sprinkle chicken with a dash of salt and pepper. Broil 4-6 in. from the heat until golden brown, 6-8 minutes on each side. Transfer to a greased 5-qt. slow cooker.
+- Combine the ketchup, brown sugar, vinegar, Worcestershire sauce, mustard, garlic, liquid smoke if desired, and remaining salt; pour over wings. Toss to coat.
+- Cover and cook on low until chicken is tender, 2-3 hours. If desired, top with jalapenos, onion and sesame seeds to serve.',0, 135, 24);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Side Dishes','Brownie Batter Dip','- 1 package (8 ounces) cream cheese, softened
+- 1/4 cup butter, softened
+- 2 cups confectioners sugar
+- 1/3 cup baking cocoa
+- 1/4 cup 2% milk
+- 2 tablespoons brown sugar
+- 1 teaspoon vanilla extract
+- M&Ms minis, optional
+- Animal crackers, pretzels and/or sliced apples','- In a large bowl, beat cream cheese and butter until smooth. Beat in confectioners sugar, cocoa, milk, brown sugar and vanilla until smooth. If desired, sprinkle with M&Ms minis. Serve with dippers of your choice.',0, 10, 4);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Side Dishes','Guacamole','- 3 medium ripe avocados, peeled and cubed
+- 1 garlic clove, minced
+- 1/4 to 1/2 teaspoon salt
+- 1 small onion, finely chopped
+- 1 to 2 tablespoons lime juice
+- 1 tablespoon minced fresh cilantro
+- 2 medium tomatoes, seeded and chopped, optional
+- 1/4 cup mayonnaise, optional','- Mash avocados with garlic and salt. Stir in remaining ingredients, adding tomatoes and mayonnaise if desired.',0, 10, 2);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Side Dishes','Greek Pita Spread','- 1 package (8 ounces) cream cheese, softened
+- 1 cup sour cream
+- 1/2 cup Greek vinaigrette
+- 2 cans (2-1/4 ounces each) sliced ripe olives, drained
+- 2 medium tomatoes, seeded and chopped
+- 1 small red onion, chopped
+- 1 large green pepper, chopped
+- 1 large sweet red pepper, chopped
+- 1 large cucumber, seeded and chopped
+- 1 cup (4 ounces) crumbled feta cheese
+- Pita breads, cut into wedges or baked pita chips','- In a small bowl, beat the cream cheese, sour cream and vinaigrette until blended. Spread onto a large serving plate or two pie plates. Layer with olives, tomatoes, onion, peppers, cucumber and cheese. Serve with pita breads.',0, 30, 6);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Side Dishes','Jalapeno Poppers','- 6 jalapeno peppers
+- 4 ounces cream cheese, softened
+- 2 tablespoons shredded cheddar cheese
+- 6 bacon strips, halved widthwise
+- 1/4 cup packed brown sugar
+- 1 tablespoon chili seasoning mix','- Cut jalapenos in half lengthwise and remove seeds; set aside. In a small bowl, beat cheeses until blended. Spoon into pepper halves. Wrap a half-strip of bacon around each pepper half.
+- Combine brown sugar and chili seasoning; coat peppers with sugar mixture. Place in a greased 15x10x1-in. baking pan.Bake at 350° until bacon is firm, 18-20 minutes.',350, 20, 12);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Side Dishes','Fried Pickles','- 32 dill pickle slices
+- 1/2 cup all-purpose flour
+- 1/2 teaspoon salt
+- 3 large eggs, lightly beaten
+- 2 tablespoons dill pickle juice
+- 1/2 teaspoon cayenne pepper
+- 1/2 teaspoon garlic powder
+- 2 cups panko bread crumbs
+- 2 tablespoons snipped fresh dill
+- Cooking spray
+- Ranch salad dressing, optional','- Preheat air fryer to 400°. Let pickles stand on paper towels until liquid is almost absorbed, about 15 minutes.
+- Meanwhile, in a shallow bowl, combine flour and salt. In another shallow bowl, whisk eggs, pickle juice, cayenne and garlic powder. Combine panko and dill in a third shallow bowl.
+- Dip pickles in flour mixture to coat both sides; shake off excess. Dip in egg mixture, then in crumb mixture, patting to help coating adhere. In batches, place pickles in a single layer on greased tray in air-fryer basket. Cook until golden brown and crispy, 7-10 minutes. Turn pickles; spritz with cooking spray. Cook until golden brown and crispy, 7-10 minutes longer. Serve immediately, with ranch dressing if desired.',400, 15, 32);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Side Dishes','Potato Skins','- 2 medium potatoes
+- 1 tablespoon butter, melted
+- 1/4 cup picante sauce
+- 1/3 cup shredded cheddar cheese
+- 2 bacon strips, cooked and crumbled
+- 1/4 cup chopped tomato
+- 2 tablespoons chopped green onion
+~for topping~
+- 3 tablespoons mayonnaise
+- 2 tablespoons sour cream
+- 1 tablespoon prepared ranch salad dressing
+- 1 bacon strip, cooked and crumbled
+- 1/4 teaspoon garlic powder','- Scrub and pierce potatoes. Bake at 400° for 45-50 minutes or until tender. When cool enough to handle, cut each potato lengthwise into four wedges. Cut away the white portion, leaving 1/4 in. on the potato skins.
+- Place potato skins on a baking sheet. Brush butter over shells; top with picante sauce, cheese and bacon bits.
+- Bake potatoes, skin side down, at 450° for 12-15 minutes or until cheese is melted and skins are crisp. Sprinkle with tomato and onion. In a small bowl, combine topping ingredients. Serve with potato skins.',400, 50, 4);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Side Dishes','7 Layer Dip','- 1 1/4 cups salsa
+- 16 ounces refried beans canned
+- 2 tablespoons milk
+- 8 ounces cream cheese softened
+- 1/2 cup sour cream
+- 2 tablespoons taco seasoning
+- 1 cup guacamole prepared
+- 1 1/2 cups cheddar cheese
+- 1/2 cup black olives or tomatoes
+- 4 sliced green onions','- Place salsa in a sieve to drain any liquid (this keeps your dip from getting runny).
+- Combine refried beans and milk (or you can use the liquid from the salsa if you prefer) until smooth. Spread in the bottom of a 9x13 pan.
+- Combine cream cheese, sour cream and taco seasoning with a mixer on medium. Spread over refried beans.
+- Spoon guacamole over cream cheese and gently spread. Repeat with drained salsa.
+- Top with cheese, olives/tomatoes and green onions.
+- Chill 1 hour before serving. Serve with tortilla chips or crackers.',0, 15, 16);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Breakfast','Blueberry French Toast','- 12 slices day-old white bread, crusts removed
+- 2 packages (8 ounces each) cream cheese
+- 1 cup fresh or frozen blueberries
+- 12 large eggs, lightly beaten
+- 2 cups 2% milk
+- 1/3 cup maple syrup or honey
+~for sauce~
+- 1 cup sugar
+- 1 cup water
+- 2 tablespoons cornstarch
+- 1 cup fresh or frozen blueberries
+- 1 tablespoon butter','- Cut bread into 1-in. cubes; place half in a greased 13x9-in. baking dish. Cut cream cheese into 1-in. cubes; place over bread. Top with blueberries and remaining bread cubes.
+- Whisk the eggs, milk and syrup in a large bowl. Pour over bread mixture. Cover and refrigerate for 8 hours or overnight.
+- Remove from the refrigerator 30 minutes before baking. Cover and bake at 350° for 30 minutes. Uncover; bake 25-30 minutes longer or until a knife inserted in center comes out clean.
+- Combine the sugar, water and cornstarch in a small saucepan until smooth. Bring to a boil over medium heat; cook and stir until thickened, 3 minutes. Stir in blueberries; bring to a boil. Reduce heat and simmer until berries burst, 8-10 minutes. Remove from heat; stir in butter. Serve with French toast.',350, 55, 8);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Breakfast','Cinnamon Rolls','- 2 1/2 teaspoons active dry yeast*
+- 1/2 cup warm water
+- 1/2 cup whole milk , warmed
+- 1/4 cup granulated sugar + 1/2 teaspoon, divided
+- 1/3 cup butter , slightly melted
+- 1 teaspoon salt
+- 1 large egg , room temperature
+- 3 1/2-4 cups bread flour , or all-purpose
+~for filling~
+- 6 Tablespoons melted butter
+- 2/3 cup packed light brown sugar
+- 2 Tablespoons ground cinnamon
+- 3/4 cup raisins , chopped walnuts, or pecans (optional)
+~for icing~
+- 4 Tablespoons butter , softened
+- 2 cups powdered sugar
+- 1 teaspoon vanilla extract
+- 3-6 Tablespoons milk , as needed','- In a small bowl, stir together yeast, warm water and 1/2 teaspoon sugar. Set aside for 5 minutes to proof. (If the mixture does not get foamy on top, either the yeast is bad or the water was too hot). For instant yeast, add yeast, water and sugar with everything in step 2.
+- In a stand mixer or large bowl add the yeast mixture, warm milk, sugar, melted butter, salt and egg. Add 2 cups of flour and mix until smooth. Add another cup of flour and mix or knead until combined. Continue kneading the dough for about 5 minutes, adding additional flour as or if needed to reach a soft dough that pulls away from the sides and bottom of the bowl and is not overly sticky, but very soft. Be careful not to add too much flour.
+- Place dough in a well-greased bowl, cover and let rise until doubled in volume, about 1 1/2 hours. Meanwhile, butter a rimmed bakers half sheet (18x13) or a 9x13 pan. Set aside.
+- Dust a work surface lightly with flour, or spray with non-stick cooking spray. Punch down the risen dough and transfer to work surface. Roll it out into about a 20x18 rectangle.
+- Spread the 6 tablespoons of softened butter over the top of the dough. Mix sugar and cinnamon together, and then sprinkle over buttered dough, leaving 1/2 inch border. Sprinkle with walnuts, pecans, or raisins if desired.
+- Beginning on the 18-inch side, role up dough tightly into a log. Pinch the ends together to seal. Cut into 12 equal portioned pieces (about 1 1/2 inches wide). A sharp serrated knife or a piece of floss work well to cut the dough.
+- Arrange rolls on prepared baking sheet and cover with plastic wrap (I like to spray the plastic wrap lightly with cooking spray first, so it does not stick to the dough). Allow the rolls to rise again for about an hour, until doubled in volume.
+- Preheat oven to 375 degrees F. Once risen, uncover rolls and bake for 18-22 minutes or until no longer doughy in the center.
+- While the cinnamon rolls bake, make the icing. Mix butter and powdered sugar together for several minutes. Mix in vanilla, and enough milk to reach a soft frosting consistency.
+- Spread icing over hot cinnamon rolls, right from the oven.',375, 22, 12);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Breakfast','Eggs Benedict Casserole','- 12 ounces Canadian bacon, chopped
+- 6 English muffins, split and cut into 1-inch pieces
+- 8 large eggs
+- 2 cups 2% milk
+- 1 teaspoon onion powder
+- 1/4 teaspoon paprika
+HOLLANDAISE SAUCE:
+- 4 large egg yolks
+- 1/2 cup heavy whipping cream
+- 2 tablespoons lemon juice
+- 1 teaspoon Dijon mustard
+- 1/2 cup butter, melted
+- Minced chives, optional','- Place half the Canadian bacon in a greased 3-qt. or 13x9-in. baking dish; top with English muffins and remaining bacon. In a large bowl, whisk eggs, milk and onion powder; pour over top. Refrigerate, covered, overnight.
+- Preheat oven to 375°. Remove casserole from refrigerator while oven heats. Sprinkle top with paprika. Bake, covered, 35 minutes. Uncover; bake 10-15 minutes longer or until a knife inserted in the center comes out clean.
+- In top of a double boiler or a metal bowl over simmering water, whisk egg yolks, cream, lemon juice and mustard until blended; cook until mixture is just thick enough to coat a metal spoon and temperature reaches 160°, whisking constantly. Reduce heat to very low. Very slowly drizzle in warm melted butter, whisking constantly. Serve sauce immediately with casserole. If desired, sprinkle with chives.',375, 45, 12);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Breakfast','Sweet Potato Pancakes','- 1 package (8 ounces) cream cheese, softened
+- 1/4 cup packed brown sugar
+- 1/2 teaspoon ground cinnamon
+- 1/2 cup sour cream
+- 6 large eggs
+- 3/4 cup all-purpose flour
+- 1/2 teaspoon ground nutmeg
+- 1/2 teaspoon salt
+- 1/4 teaspoon pepper
+- 6 cups shredded peeled sweet potatoes (about 3 large)
+- 3 cups shredded peeled apples (about 3 large)
+- 1/3 cup grated onion
+- 1/2 cup canola oil','- In a small bowl, beat the cream cheese, brown sugar and cinnamon until blended; beat in sour cream. Set aside.
+- In a large bowl, whisk the eggs, flour, nutmeg, salt and pepper. Add the sweet potatoes, apples and onion; toss to coat.
+- In a large nonstick skillet, heat 2 tablespoons oil over medium heat. Working in batches, drop sweet potato mixture by 1/3 cupfuls into oil; press slightly to flatten. Fry until golden brown, 2-3 minutes on each side, using remaining oil as needed. Drain on paper towels. Serve with cinnamon topping.',0, 15, 12);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Breakfast','Omelette','- 2 large eggs
+- Pinch fine sea salt
+- 1/2 Tbsp unsalted butter
+- 1/4 cup shredded mozzarella, low moisture, part-skim
+- Ham, diced
+- Sautéed diced bell peppers and onions
+- Crispy bacon, chopped
+- Fresh spinach, coarsely chopped','- In a small mixing bowl, beat together eggs and a pinch of salt until foamy.
+- Place a small nonstick skillet over medium heat and swirl in 1/2 Tbsp butter. Once butter is melted and bubbling, add frothy eggs to the skillet and immediately reduce the heat to low.
+- Use a spatula to pull the cooked eggs into the center, letting the liquid egg fill the space behind it. Continue going around the pan, pulling the eggs towards the center until the eggs are nearly set.
+- Once the omelette is sliding around the pan easily and you can get a spatula underneath, flip the omelette over and turn off the heat.
+- Sprinkle cheese over the egg and add your favorite toppings. Fold the omelette in half and slide it onto your plate then garnish as desired.',0, 3, 1);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Breakfast','Breakfast Burrito','- 2 teaspoons canola oil
+- 1/2 small red onion, diced (1 cup)
+- 1 red bell pepper, seeded and diced
+- 1 cup drained, rinsed canned black beans, preferably low-sodium
+- 1/4 teaspoon chili flakes
+- Salt and freshly ground black pepper
+- 4 eggs and 4 egg whites
+- 1/3 cup (about 1 1/2 ounce) shredded pepper Jack cheese
+- Nonstick cooking spray
+- 4 (10 inch) whole wheat tortillas (burrito size)
+- 1/4 cup reduced fat-free sour cream or 2 percent plain Greek yogurt
+- 1/4 cup salsa
+- 1 large tomato, (4 ounces) seeded and diced
+- 1 small avocado (4 ounces), cubed
+- Hot sauce','- Heat the canola oil in a large nonstick skillet over a medium-high heat. Cook the onions and peppers until onions are softened and peppers are slightly charred, about 8 minutes. Add black beans and red pepper flakes and cook until warmed through, another 3 minutes. Season with salt and pepper and transfer to a dish.
+- Whisk together the eggs and egg whites then stir in the cheese. Spray the skillet with cooking spray, and reheat the skillet over a medium heat. Reduce heat to low and add eggs, scrambling until cooked through, about 3 minutes. Spread each tortilla with 1 tablespoon each sour cream (or yogurt) and salsa, then layer with 1/4 of the black bean mixture, 1/4 of the scrambled eggs, some diced tomato and 1/4 of the avocado. Season, to taste, with hot sauce. Roll up burrito-style and serve.',0, 38, 4);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Breakfast','Crepes','- 1 cup all-purpose flour
+- 2 large eggs
+- 1/2 cup milk
+- 1/2 cup water
+- 1/4 teaspoon salt
+- 2 tablespoons butter,melted','- Whisk flour and eggs together in a large mixing bowl; gradually add in milk and water, stirring to combine. Add salt and melted butter; beat until smooth.
+- Heat a lightly oiled griddle or frying pan over medium-high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each crêpe. Tilt the pan with a circular motion so that the batter coats the surface evenly.
+- Cook until the top of the crêpe is no longer wet and the bottom has turned light brown, 1 to 2 minutes. Run a spatula around the edge of the skillet to loosen the crêpe; flip and cook until the other side has turned light brown, about 1 minute more. Serve hot.',0, 20, 8);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Breakfast','Egg Puffs','- 1/2 pound sliced fresh mushrooms
+- 4 green onions, chopped
+- 1 tablespoon plus 1/2 cup butter, cubed, divided
+- 1/2 cup all-purpose flour
+- 1 teaspoon baking powder
+- 1/2 teaspoon salt
+- 10 large eggs, lightly beaten
+- 4 cups shredded Monterey Jack cheese
+- 2 cups 4% cottage cheese','- In a skillet, saute the mushrooms and onions in 1 tablespoon butter until tender. In a large bowl, combine the flour, baking powder and salt.
+- In another bowl, combine eggs and cheeses. Melt remaining 1/2 cup butter; add to egg mixture. Stir into dry ingredients along with mushroom mixture.
+- Fill greased muffin cups three-fourths full. Bake at 350° for 35-40 minutes or until a knife inserted in the center comes out clean. Carefully run the knife around edge of muffin cups before removing.',350, 40, 30);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Breakfast','Broccoli Ham Quiche','- 1 unbaked deep-dish pie crust (9 inches)
+- 1 cup shredded Swiss cheese
+- 1 cup shredded part-skim mozzarella cheese
+- 2 tablespoons all-purpose flour
+- 4 large eggs, lightly beaten
+- 1-1/2 cups whole milk
+- 2 tablespoons chopped green onion
+- 1/4 teaspoon salt
+- 1/8 teaspoon pepper
+- 1/8 teaspoon dried thyme
+- 1/8 teaspoon dried rosemary, crushed
+- 1/2 cup diced fully cooked ham
+- 1/2 cup chopped fresh broccoli','- Line unpricked pie crust with a double thickness of heavy-duty foil. Bake at 450° for 8 minutes. Remove foil; bake 5 minutes longer. Cool on a wire rack while preparing filling.
+- Toss cheeses with flour; set aside. In a large bowl, combine the eggs, milk, onion and seasonings. Stir in the ham, broccoli and the cheese mixture. Pour into prepared crust.
+- Bake at 350° for 55-60 minutes or until set. Let stand 10 minutes before cutting.',450, 55, 8);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Breakfast','Best Scrambled Eggs','- 4 large eggs
+- 1/4 cup half-n-half
+- 1/4 teaspoon Kosher salt
+- 1 tablespoon unsalted butter
+- black pepper, for serving
+- fresh chopped herbs, for serving','- In a medium mixing bowl, aggressively whisk together the eggs, half-n-half, and salt until the mixture is uniform in color and texture, and is light and foamy, without any separate streaks of yolk or whites.
+- Melt the butter in a small nonstick pan over medium heat, until the butter coats the whole pan and just starts to foam.
+- Add the eggs to the center of the pan and immediately reduce the heat to medium-low.
+- Wait for the edges to just barely start to set, then using a rubber spatula, gently push the eggs from one end of the pan to the other. Continue this process, pausing in between swipes to allow the uncooked egg to settle on the warm pan and cook, gently pushing the liquid to form the curds.
+- When the eggs are mostly cooked, with big pillow-y folds, but still look pretty wet, slowly fold the eggs into itself just a couple times, bringing them together.
+- Remove from the heat when the eggs still shimmer with some moisture.
+- Transfer to serving plates. Finish with some freshly cracked pepper and chopped fresh herbs. Scrambled eggs have never tasted so good!',0, 3, 2);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Breakfast','Belgian Waffles','- 2 cups all-purpose flour
+- 3/4 cup sugar
+- 3-1/2 teaspoons baking powder
+- 2 large eggs, separated, room temperature
+- 1-1/2 cups whole milk
+- 1 cup butter, melted
+- 1 teaspoon vanilla extract
+- Sliced fresh strawberries or syrup','- In a bowl, combine flour, sugar and baking powder. In another bowl, lightly beat egg yolks. Add milk, butter and vanilla; mix well. Stir into dry ingredients just until combined. Beat egg whites until stiff peaks form; fold into batter.
+- Bake in a preheated waffle maker according to manufacturers directions until golden brown. Serve with strawberries or syrup.',0, 30, 4);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Breakfast','Honey Granola','- 4 cups old-fashioned oats
+- 1 cup sunflower kernels
+- 1 cup sweetened shredded coconut
+- 1/2 teaspoon salt
+- 1/2 cup canola oil
+- 1/2 cup honey
+- 1 cup chopped dried pineapple
+- 1 cup chopped dried mangoes','- In a 3-qt. slow cooker, combine oats, sunflower kernels, coconut and salt. In a small bowl, whisk oil and honey until blended. Stir into oat mixture. Cook, covered, on high 2 hours, stirring well every 20 minutes.
+- Remove granola to baking sheets, spreading evenly; cool completely. Stir in pineapple and mangoes. Store in airtight containers.',0, 120, 8);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Breakfast','Fluffy Pancakes','- 3/4 cup milk
+- 2 tablespoons white vinegar
+- 1 cup all-purpose flour
+- 2 tablespoons white sugar
+- 1 teaspoon baking powder
+- 1/2 teaspoon baking soda
+- 1/2 teaspoon salt
+- 1 egg
+- 2 tablespoons butter, melted
+- cooking spray','- Combine milk with vinegar in a medium bowl and set aside for 5 minutes to sour.
+- Combine flour, sugar, baking powder, baking soda, and salt in a large mixing bowl. Whisk egg and butter into soured milk. Pour the flour mixture into the milk mixture and whisk until lumps are gone.
+- Heat a large skillet over medium heat, and coat it with cooking spray. Pour 1/4 cupfuls of batter onto the skillet, and cook until bubbles form and the edges are dry, about 2 to 3 minutes. Flip with a spatula, and cook until browned on the other side. Repeat with remaining batter.',0, 10, 4);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Breakfast','Hashbrowns','- 3 large russet potatoes peeled or unpeeled, based on preference
+- 1/4 cup vegetable oil
+- salt and pepper to taste','Shred potatoes (either peeled or unpeeled) with a box-style cheese grater.
+- Transfer shredded potatoes into a bowl of cold water. Stir potato shreds around in the water to loosen the starch off the potato and drain off the starchy water.
+- Refill the bowl with more cold water and repeat stirring and draining the water off the potatoes. Drain as much water off of the potatoes as you can, drying them with paper towels or a clean dish towel if possible. You can even squeeze them between several layers of cheesecloth to remove as much water as possible.
+- Heat vegetable oil in a non-stick skillet over medium-high heat. Transfer dried potatoes into the hot pan and spread into an even layer.
+- Season potatoes with salt and pepper and cook without disturbing for 3-4 minutes or until golden brown on the bottom.
+- Use a spatula to flip the potatoes in several sections to cook the other side. Cook for another 3-4 minutes or until golden brown.
+- Remove from heat and serve.',0, 10, 4);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Breakfast','Eggs Benedict','- 4 egg yolks
+- 3 1/2 tablespoons lemon juice
+- 1 tablespoon water
+- 1/8 teaspoon Worcestershire sauce
+- 1 pinch ground white pepper
+- 1 teaspoon hot water, or more as needed (Optional)
+- 1 cup butter, melted
+- 1/4 teaspoon salt
+- 1 teaspoon distilled white vinegar
+- 8 eggs
+- 8 strips Canadian-style bacon
+- 4 English muffins, split
+- 2 tablespoons butter, softened','- Make the Hollandaise: Whisk egg yolks, lemon juice, 1 tablespoon of water, Worcestershire sauce, and white pepper in the top of a double boiler over simmering water. Add melted butter, 1 or 2 tablespoons at a time, while whisking yolks constantly. If Hollandaise begins to get too thick, add a teaspoon or two of hot water. Continue whisking until all of the butter is incorporated. Whisk in salt, then remove from heat. Place a lid on the pan to keep sauce warm.
+- Make the eggs Benedict: Fill a large saucepan with 2 to 3 inches of water and bring to a boil. Reduce heat to medium-low, pour in vinegar, and keep water at a gentle simmer. Crack an egg into a small bowl then gently slip egg into simmering water, holding the bowl just above the surface of water. Repeat with the remaining eggs. Cook eggs until whites are firm and yolks have thickened but are not hard, 2 1/2 to 3 minutes. Remove eggs from water with a slotted spoon, dab on a kitchen towel to remove excess water, and place onto a warm plate.
+- Meanwhile, set an oven rack about 6 inches from the heat source and preheat the ovens broiler. Brown bacon in a medium skillet over medium-high heat.Toast English muffins on a baking sheet under the preheated broiler.
+- Spread toasted muffins with softened butter and top each one with a slice of bacon, followed by one poached egg. Place 2 muffins on each plate and drizzle with Hollandaise sauce. Sprinkle with chopped chives and serve immediately.',0, 15, 4);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Pasta','Basil Pesto','- 2 cups fresh basil leaves, packed (can sub half the basil leaves with baby spinach)
+- 1/2 cup freshly grated Romano or Parmesan cheese (about 2 ounces)
+- 1/2 cup extra virgin olive oil
+- 1/3 cup pine nuts (can sub chopped walnuts)
+- 3 cloves garlic, minced (about 1 tablespoon)
+- 1/4 teaspoon salt, or more to taste
+- 1/8 teaspoon freshly ground black pepper, or more to taste','- Place the basil leaves and pine nuts into the bowl of a food processor and pulse several times.
+- Add the garlic and Parmesan or Romano cheese and pulse several times more. Scrape down the sides of the food processor with a rubber spatula.
+- While the food processor is running, slowly add the olive oil in a steady small stream. Adding the olive oil slowly while the processor is running will help it emulsify and help keep the olive oil from separating. Occasionally, stop to scrape down the sides of the food processor.
+- Add salt and freshly ground black pepper to taste.
+- Toss with pasta for a quick sauce, dollop over baked potatoes, or spread onto crackers or toasted slices of bread.',0, 15, 4);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Pasta','Bolognese Sauce','- 2 small carrots chopped
+- 1 small onion chopped
+- 2 celery stalks chopped
+- 3 cloves garlic
+- 8 ounce pancetta
+- 1 pound ground beef 80/20
+- 1 pound ground pork
+- 1 cup white wine
+- 1 29 ounce can crushed tomatoes
+- 1 4 ounce tomato paste
+- 2 cups chicken broth
+- 1 cup whole milk
+- salt and pepper to taste','- In a food processor add the carrots, onion, celery, and garlic. Pulse until crossly chopped. Be careful not to pulse it too long so that it turns into mush. Remove and set aside on a plate.
+- Add the pancetta to the food processor and pulse until it is coarsely chopped.
+- Add to a large skillet and cook the pancetta for 5-6 minutes over medium-high heat or until it starts to crisp. Remove and set aside on a plate.
+- Add in the ground beef and ground pork. Cook and crumble until it is cooked throughout. You want the crumbles to be pretty small so it might take some extra work.
+- Add the veggies, pancetta, white wine to the skillet. Allow it to deglaze.
+- Add in the crushed tomatoes, tomato paste, and chicken broth.
+- Let it simmer on low for 2 hours for the flavors to blend and for it to thicken.
+- The last 15 minutes of cooking add the milk. Season to taste. Serve while warm.',0, 150, 4);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Pasta','Italian Sausage Pasta','- 8 ounces uncooked penne
+- 10.6 ounces hot Italian sausages crumbled (see note)
+- 3 cloves garlic minced
+- 1/2 cup chicken broth or white wine
+- 1/2 tablespoon flour
+- 1 (14 fluid ounce) can diced tomatoes with juices
+- 1/2 cup heavy/whipping cream
+- Salt & pepper to taste
+- 6 large leaves basil sliced/torn into small pieces
+- Freshly grated parmesan cheese to taste','- Bring a large pot of salted water to a boil. Cook pasta al dente according to package directions.
+- Take the sausage meat out of the casings and crumble it into a deep skillet. Cook it for about 5 minutes, stirring occasionally, over medium-high heat until browned.
+- Once the sausage is browned, take it out of the pan and set it aside. Drain the fat.
+- Add the garlic, followed by the chicken broth to the skillet. Sprinkle the flour in. Whisk it until the flour has dissolved, and scrape any browned bits from the bottom of the pan. Cook this mixture until it is significantly reduced (should only take a minute or two in total).
+- Add in the tomatoes, cream, and the sausage meat. Cook the sauce for a few more minutes until it is thickened to your liking. Season with salt & pepper as needed.
+- Just prior to serving, add in the torn basil leaves and then toss with the drained pasta. Serve with freshly grated parmesan cheese.',0, 20, 4);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Pasta','Gnocchi','- 2 lbs russet potatoes, 4 large
+- 1 large egg, beaten
+- 1 cup all-purpose flour, (add more if potatoes were boiled and more moist) plus more to dust
+- 1 tsp salt, plus more to boil gnocchi
+- 1/4 tsp black pepper
+- 1/4 cup Ricotta cheese, drained if liquid is present','- Wash potatoes and pierce all over with a fork. Bake the potatoes either in the instant pot, in the air fryer, or in the oven at 450˚F for 45-60 minutes until easily pierced then let rest until they are cool enough to handle. Peel potatoes and cut each one into 4 slices. Use a potato ricer to press one piece of potato at a time over a clean work surface.
+- Drizzle 1 beaten egg over the potatoes and dot the top of the potatoes with bits of ricotta cheese.
+- Mix 1 tsp salt and 1/4 tsp pepper into 1 cup flour then sift the flour mixture over the potatoes.
+- Use a bench scraper or your hands to mix everything together lightly then use your hands to press dough together gently. Dust work surface and dough with flour as you gently knead, roll and fold the dough. Do not over-knead or smash the dough but keep it light and fluffy. Knead just until flour is incorporated and a soft and smooth dough has formed.
+- Roll dough into a log and divide it into 8 pieces. Roll each piece into thin strips and cut strips into 1-inch pieces. Roll gnocchi over a floured fork or over a gnocchi paddle for a ridge pattern. Transfer formed gnocchi to a parchment-lined and flour-dusted baking sheet, keeping them in a single layer. Before cooking gnocchi, prepare your desired serving method (see below).
+- Cook gnocchi in 3-4 batches in salted water (1 1/2 Tbsp salt for a half pot of water). Do not overcrowd the pot and give a light stir in case they are stuck together. As soon as they start to float to the top, cook for 1 minute then immediately lift with a sieve to drain then transfer to warm sauce or finish them in a skillet. Repeat cooking the remaining batches.',450, 60, 8);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Pasta','Lasagna','- 12 lasagna noodles uncooked
+- 4 cups mozzarella cheese shredded and divided
+- 1/2 cup parmesan cheese shredded and divided
+~for the sauce~
+- 1/2 pound lean ground beef
+- 1/2 pound Italian sausage
+- 1 onion diced
+- 2 cloves garlic minced
+- 36 ounces pasta sauce *see note
+- 2 tablespoons tomato paste
+- 1 teaspoon Italian seasoning
+~for cheese mixture~
+- 2 cups ricotta cheese
+- 1/4 cup fresh parsley chopped
+- 1 egg beaten','- Preheat the oven to 350°F. In a large pot of salted water, boil lasagna noodles until al dente according to package directions. Drain, rinse under cold water, and set aside.
+- In a large skillet or dutch oven, brown beef, sausage, onion, and garlic over medium-high heat until no pink remains. Drain any fat.
+- Stir in the pasta sauce, tomato paste, Italian seasoning, 1/2 teaspoon of salt, and 1/4 teaspoon of black pepper. Simmer uncovered over medium heat for 5 minutes or until thickened.
+- In a separate bowl, combine 1 1/2 cups mozzarella, ¼ cup parmesan cheese, ricotta, parsley, egg, and 1/4 teaspoon salt.
+- Spread 1 cup of the meat sauce in a 9×13 pan or casserole dish. Top it with 3 lasagna noodles. Layer with 1/3 of the ricotta cheese mixture and 1 cup of meat sauce. Repeat twice more. Finish with 3 noodles topped with remaining sauce.
+- Cover with foil and bake for 45 minutes.
+- Remove the foil and sprinkle with the remaining 2 1/2 cups mozzarella cheese and ¼ cup parmesan cheese. Bake for an additional 15 minutes or until browned and bubbly. Broil for 2-3 minutes if desired.
+- Rest for at least 15 minutes before cutting.',350, 60, 12);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Pasta','Baked Mac & Cheese','- 16 oz elbow macaroni, cooked (or other tubular pasta)
+- 1 tbsp extra virgin olive oil
+- 6 tbsp unsalted butter
+- 1/3 cup all purpose flour
+- 3 cups whole milk
+- 1 cup heavy whipping cream
+- 4 cups sharp cheddar cheese shredded
+- 2 cups Gruyere cheese shredded
+- salt and pepper to taste
+- 1 1/2 cups panko crumbs
+- 4 tbsp butter melted
+- 1/2 cup Parmesan cheese shredded
+- 1/4 tsp smoked paprika (or regular paprika)','- Preheat oven to 350F. Lightly grease a large 3 qt or 4 qt baking dish and set aside.Combine shredded cheeses in a large bowl and set aside.
+- Cook the pasta one minute shy of al dente according to the package instructions. Remove from heat, drain, and place in a large bowl.
+- Drizzle pasta with olive oil and stir to coat pasta. Set aside to cool while preparing cheese sauce.
+- Melt butter in a deep saucepan, dutch oven, or stock pot.
+- Whisk in flour over medium heat and continue whisking for about 1 minute until bubbly and golden.
+- Gradually whisk in the milk and heavy cream until nice and smooth. Continue whisking until you see bubbles on the surface and then continue cooking and whisking for another 2 minutes. Whisk in salt and pepper.
+- Add two cups of shredded cheese and whisk until smooth. Add another two cups of shredded cheese and continue whisking until creamy and smooth. Sauce should be nice and thick.
+- Stir in the cooled pasta until combined and pasta is fully coated with the cheese sauce.
+- Pour half of the mac and cheese into the prepared baking dish. Top with remaining 2 cups of shredded cheese and then the remaining mac and cheese.
+- In a small bowl, combine panko crumbs, Parmesan cheese, melted butter and paprika. Sprinkle over the top and bake until bubbly and golden brown, about 30 minutes. Serve immediately.',350, 30, 12);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Pasta','Orzo Pasta Salad','- 8 ounces orzo pasta {try whole wheat for a healthier version}, cooked according to package
+- 1/2 english cucumber, diced
+- 1/2 cup crumbled feta cheese
+- 1 - 15-ounce can garbanzo beans {chickpeas}, drained and rinsed
+- 2 cups cherry tomatoes, halved
+- 1/2 small red onion, chopped {about 2/3 cup}
+- 1/2 cup fresh basil leaves, chopped
+- 1/4 cup fresh mint leaves, chopped
+- 1/4 cup fresh parsley, chopped
+~for the dressing~
+- 1/3 cup red wine vinegar
+- 1 lemons, juiced
+- 1 teaspoon honey
+- 1/2 teaspoons salt
+- 1/8 teaspoon freshly ground black pepper
+- 2/3 cup extra-virgin olive oil','- Cook the orzo according to the package. Let cool completely or run under cold water until cooled.
+- In large mixing bowl combine the cucumber, feta cheese, garbanzo beans, tomatoes, red onion and gently stir to combine.
+- In a mason jar or salad dressing container whisk together the red wine vinegar, lemon juice, honey, salt, pepper and extra virgin oil.
+- Add the orzo pasta to the vegetables and mix well. Pour half of the dressing over the salad and toss. Sprinkle the basil, mint and parsley over the salad and gently toss.
+- If serving immediately add more dressing if you feel like the salad needs it. Otherwise refrigerate the remaining half of the dressing and the salad. When ready to serve add the remaining dressing and toss.',0, 15, 8);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Pasta','Fettuccine Alfredo','- 1 lb fettuccine pasta
+- 2 tablespoon unsalted butter
+- 2 teaspoon minced garlic
+- 1 pint heavy whipping cream
+- 1 cup Parmesan cheese grated
+- 1/2 teaspoon garlic pepper','- Cook noodles as directed on the package.
+- While the noodles are cooking, add 2 TB butter to a pan and let melt. Add the minced garlic and saute for 1-2 minutes.
+- Add whipping cream and bring to a simmer. Add 1 cup Parmesan Cheese and mix well. (Sauce will thicken up)
+- Add pasta and mix until covered. Top with garlic pepper (salt if needed) and more Parmesan Cheese.',0, 30, 6);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Pasta','Chicken Parm','- 2 large boneless skinless chicken breasts
+- alt/Pepper
+- 1/4 cup vegetable oil, or as needed
+~for breading~
+- 1/2 cup flour
+- 1 1/2 teaspoons seasoned salt
+- 1/4 teaspoon pepper
+- 2 eggs, beaten until frothy
+- 1/2 teaspoon garlic powder
+- 1 1/2 cups panko breadcrumbs
+- 1/3 cup Parmesan cheese, freshly grated
+- 1 teaspoon dried parsley
+- 1 teaspoon dried oregano
+~for cheese and topping~
+- 1 cup marinara sauce
+- 1 1/2 cups mozzarella cheese, shredded
+- Fresh Parsley, to garnish','- Preheat oven to 425°.
+- Combine the flour, egg, and breading mixtures in 3 separate shallow pans. (Be sure to beat the eggs until very frothy, this ensures they’re light/airy and not too dense.)
+- Slice the chicken in half lengthwise to create 2-3 thinner slices. Cover with plastic wrap and use the textured side of a meat mallet to pound it to 1/2 inch thick. (Thin is key here.) Pat dry. Sprinkle each side lightly with salt/pepper.
+- Dredge completely in the flour mixture, working the flour into every nook and cranny of the chicken. Tap off excess.
+- Dip the chicken in the egg mixture until just coated, use your fingers to slide off excess. (Too much egg left on the chicken can bleed through the breading, which will make it less crispy.)
+- Coat the chicken generously in the breadcrumbs.
+- Heat oil over medium-high heat. Once glistening, add the first batch of chicken, don’t overcrowd the skillet. Brown on each side for 3-4 minutes, until golden. If the oil gets too hot, adjust it down slightly, and adjust it up again later if needed.
+- Remove chicken with a slotted spatula and set on a wire cooling rack. Repeat with remaining chicken.
+- Transfer the chicken to a large, light colored baking sheet. (Dark baking sheets attract more heat and can cook the chicken too quickly.)
+- Top with marinara sauce and mozzarella cheese.
+- Bake uncovered for 12 minutes. Broil at 425° for 1-2 minutes at the end if you’d like to brown the top a little more, watch it closely during this time.
+- Garnish with fresh parsley and serve with spaghetti and garlic bread with cheese. Ensure the internal temperature is 165° prior to serving.',4250, 30, 4);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Pasta','White Wine Sauce','- 2 teaspoons minced garlic
+- 1/4 cup olive oil
+- 5 tablespoons butter
+- 1/2 teaspoon crushed red pepper
+- 1 teaspoon salt
+- 1/2 teaspoon pepper fresh ground
+- 1/2 cup white wine
+- 1 pound pasta
+- 1.2 cup parsley for garnishing
+- 1/2 cup parmesan','- In large saucepan, heat olive oil over medium. Add garlic, red pepper and sauté until golden (about a minute).
+- Add salt, pepper, wine and butter.
+- Stir 2 minutes, remove from heat and toss with pasta, chicken, scallops or shrimp.
+- Bring a pot of water to a boil. Prepare noodles al dente.
+- Garnish with parsley and fresh grated parmesan.',0, 6, 4);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Pasta','Cherry Tomato Sauce','- 1 lb. pasta
+- Kosher salt
+- 1/2 cup olive oil
+- 2 large garlic cloves, finely chopped
+- 3 pints cherry tomatoes
+- 1/2 tsp. freshly ground black pepper
+- Pinch of sugar
+- 1 cup coarsely chopped fresh basil
+- Freshly grated Parmesan (for serving)','- Cook pasta in a large pot of boiling salted water, stirring occasionally, until al dente; drain pasta and transfer to a large bowl.
+- Meanwhile, heat oil in a 12 inch skillet or wide heavy saucepan over medium-high. Add garlic, then tomatoes, pepper, sugar, and 1 tsp. salt. Cook, stirring occasionally, until tomatoes burst and release their juices to form a sauce, 6–8 minutes.
+- Toss pasta with tomato sauce and basil. Top with Parmesan.',0, 15, 6);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Pasta','Ravioli','- 5 to 5-1/2 cups all-purpose flour
+- 6 large eggs
+- 1/2 cup water
+- 1 tablespoon olive oil
+~for sauce~
+- 1 can (28 ounces) crushed tomatoes
+- 1-1/2 cups tomato puree
+- 1/2 cup grated Parmesan cheese
+- 1/3 cup water
+- 1/3 cup tomato paste
+- 3 tablespoons sugar
+- 2 tablespoons minced fresh basil
+- 1 tablespoon minced fresh parsley
+- 1 tablespoon minced fresh oregano
+- 1 garlic clove, minced
+- 1/2 teaspoon salt
+- 1/4 teaspoon pepper
+~for filling~
+- 1 carton (15 ounces) ricotta cheese
+- 2 cups shredded part-skim mozzarella cheese
+- 1/3 cup grated Parmesan cheese
+- 1 large egg, lightly beaten
+- 2 teaspoons minced fresh basil
+- 1 teaspoon minced fresh parsley
+- 1 teaspoon minced fresh oregano
+- 1/4 teaspoon garlic powder
+- 1/8 teaspoon salt
+- 1/8 teaspoon pepper','- Place 5 cups flour in a large bowl. Make a well in the center. Beat the eggs, water and oil; pour into well. Stir together, forming a ball. Turn onto a floured surface; knead until smooth and elastic, 4-6 minutes, adding remaining flour if necessary to keep dough from sticking. Cover and let rest for 30 minutes.
+- Meanwhile, in a Dutch oven, combine sauce ingredients. Bring to a boil. Reduce heat; cover and simmer for 1 hour, stirring occasionally.
+- In a large bowl, combine filling ingredients. Cover and refrigerate until ready to use.
+- Divide pasta dough into fourths; roll 1 portion to 1/16-in. thickness. (Keep pasta covered until ready to use.) Working quickly, place rounded teaspoons of filling 1 in. apart over half of pasta sheet. Fold sheet over; press down to seal. Cut into squares with a pastry wheel. Repeat with remaining dough and filling.
+- Bring a soup kettle of salted water to a boil. Add ravioli. Reduce heat to a gentle simmer; cook until ravioli float to the top and are tender, 1-2 minutes. Drain. Spoon sauce over ravioli.',0, 120, 6);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Pasta','Pad Thai','- 8 ounces flat rice noodles
+- 3 Tablespoons oil
+- 3 cloves garlic , minced
+- 8 ounces uncooked shrimp, chicken, or extra-firm tofu , cut into small pieces
+- 2 eggs
+- 1 cup fresh bean sprouts
+- 1 red bell pepper , thinly sliced
+- 3 green onions , chopped
+- 1/2 cup dry roasted peanuts
+- 2 limes
+- 1/2 cup Fresh cilantro , chopped
+~for sauce~
+- 3 Tablespoons fish sauce
+- 1 Tablespoon low-sodium soy sauce
+- 5 Tablespoons light brown sugar
+- 2 Tablespoons rice vinegar , or Tamarind Paste*
+- 1 Tablespoon Sriracha hot sauce , or more, to taste
+- 2 Tablespoons creamy peanut butter* (optional)','- Cook noodles according to package instructions, just until tender.  Rinse under cold water.
+- Make sauce by combining sauce ingredients in a bowl. Set aside.
+- Stir Fry:: Heat 1 1/2 tablespoons of oil in a large saucepan or wok over medium-high heat. Add the shrimp, chicken or tofu, garlic and bell pepper. The shrimp will cook quickly, about 1-2 minutes on each side, or until pink. If using chicken, cook until just cooked through, about 3-4 minutes, flipping only once.
+- Push everything to the side of the pan. Add a little more oil and add the beaten eggs. Scramble the eggs, breaking them into small pieces with a spatula as they cook.
+- Add noodles, sauce, bean sprouts and peanuts to the pan (reserving some peanuts for topping at the end). Toss everything to combine.
+- Garnish the top with green onions, extra peanuts, cilantro and lime wedges. Serve immediately!
+- Store leftovers in the fridge and enjoy within 2-3 days.',0, 15, 4);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Pasta','Lo Mein','- 1.5 tbsp vegetable or peanut oil
+- 2 garlic cloves , finely minced (Note 1)
+- 1/2 onion , finely sliced
+- 300g / 10oz chicken or other protein , sliced 0.5cm / 1/5 inch thick (Note 2)
+- 2 medium carrots , peeled and cut into 4 x 0.75cm / 1.75 x 1/3 inch batons
+- 1 large red capsicum / bell pepper , sliced (or 2 small)
+- 6 green onions , cut into 5 cm/2” lengths
+- 500g / 1lb Lo Mein, Hokkien or other medium thickness egg noodles, fresh, , prepared per packet (Note 3 for dried)
+- 1/4 cup (65ml) water
+~for sauce~
+- 4 tsp cornflour / cornstarch
+- 2 tbsp dark soy sauce (Note 4)
+- 2 tbsp soy sauce or light soy sauce (Note 4)
+- 1 tbsp Chinese cooking wine or Mirin (Note 5 subs)
+- 1 tsp white sugar (omit if using Mirin)
+- 1/2 tsp sesame oil , toasted, optional (Note 6)
+- 1/4 tsp white pepper (sub black)','- Sauce: Mix cornflour and dark soy until lump free, then add remaining Sauce ingredients.
+- Season Chicken: Transfer 2 tsp Sauce into bowl with chicken. Toss to coat.
+- Heat oil in a wok or large heavy based skillet over high heat until smoking.
+- Add onion and garlic, stir 30 seconds.
+- Add chicken, stir until white on the outside, still raw inside - 1 minute.
+- Add carrot and capsicum/bell peppers, cook 2 minutes or until chicken is cooked.
+- Add noodles, Sauce and water. Use 2 wooden spoons and toss for 30 seconds.
+- Add green onions, toss for another 1 minute until all the noodles are slick with sauce.
+- Serve immediately, garnished with extra green onions if using.',0, 7, 3);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Baking','Apple Pie','- 2 (9 inch) pie crusts
+- 7 large Granny Smith apples (peeled, cored and sliced into ½ inch slices)
+- 1/2 cup granulated sugar
+- 1/2 cup light brown sugar (loosely packed)
+- 2 tablespoons all-purpose flour
+- 1 teaspoon ground cinnamon
+- 1/8 teaspoon ground nutmeg
+- 1 tablespoon lemon juice (plus the zest of half of a lemon)
+- 1 large egg (lightly beaten in a small bowl for egg wash)
+- 2 tablespoons sanding sugar (optional)','- Start by preparing this flaky pie crust recipe which makes 2 (9 inch) pie crusts, one for the bottom and one for the top of the pie. The pie dough will need to chill for at least 1 hour before rolling out. Or use a store-bought pie crust and follow package directions.
+- Place oven rack in the center position and Preheat the oven to 400°F (204°C).
+- In a large bowl, combine the sliced apples, granulated sugar, light brown sugar, flour, cinnamon, nutmeg, and lemon juice and lemon zest; toss to coat evenly.
+- Remove the pie crust dough from the fridge and let rest at room temperature for 5-10 minutes. On a lightly floured surface, roll one disc into a 12 inch circle that is 1/8 inch thick. Carefully lay the crust into the bottom of a deep dish pie plate.
+- Spoon the apple filling over the bottom crust and discard juices at the bottom of the bowl. Roll out the second disc of pie crust until it is 1/8 inch thick and lay it over the apple filling.
+- Use a sharp knife to trim the dough along the outside edge of the pie plate. Lift the edges where the two pie crust meet, gently press to seal and fold them under. Rotate the pie plate and repeat this process until edges are neatly tucked under themselves. Cut 4 slits in the top of the dough to allow steam to vent. Place the pie on a baking sheet.
+- Brush the surface of the pie crust with the egg wash and sprinkle with sanding sugar. Cover the edges with a pie shield or a strip of foil to keep them from over browning during the first 25 minutes.
+- Bake at 400°F (204°C) for 25 minutes. Carefully remove the pie shield, turn the oven down to 375° and continue to bake for an additional 30-35 minutes or until the top is golden brown and the juices are bubbly. Cool at room temperature for at least 3 hours.',400, 60, 8);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Baking','Key Lime Pie','~for graham cracker crust~
+- 1/3 of a 1-pound box graham crackers
+- 5 tablespoons melted unsalted butter
+- 1/3 cup sugar
+~for filling~
+- 3 egg yolks
+- 2 teaspoons lime zest
+- 1 (14-ounce) can sweetened condensed milk
+- 2/3 cup freshly squeezed Key lime juice, or store bought
+~for topping~
+- 1 cup heavy or whipping cream chilled
+- 2 tablespoons confectioners sugar','- For the graham cracker crust: Preheat the oven to 350 degrees F.
+- Break up the graham crackers; place in a food processor and process to crumbs. If you do not have a food processor, place the crackers in a large plastic bag; seal and then crush the crackers with a rolling pin. Add the melted butter and sugar and pulse or stir until combined. Press the mixture into the bottom and side of a pie pan, forming a neat border around the edge. Bake the crust until set and golden, 8 minutes. Set aside on a wire rack; leave the oven on.
+- For the filling: Meanwhile, in an electric mixer with the wire whisk attachment, beat the egg yolks and lime zest at high speed until very fluffy, about 5 minutes. Gradually add the condensed milk and continue to beat until thick, 3 or 4 minutes longer. Lower the mixer speed and slowly add the lime juice, mixing just until combined, no longer. Pour the mixture into the crust. Bake for 10 minutes, or until the filling has just set. Cool on a wire rack, then refrigerate. Freeze for 15 to 20 minutes before serving.
+- For the topping: Whip the cream and the confectioners sugar until nearly stiff. Cut the pie into wedges and serve very cold, topping each wedge with a large dollop of whipped cream.',350, 18, 8);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Baking','Coffee Cake','- 2 large eggs lightly beaten
+- 1 cup vegetable oil
+- 1 1/4 cups milk
+- 1 tablespoon vanilla extract
+- 3 cups all-purpose flour
+- 1 cup sugar
+- 1 tablespoon baking powder
+- 1/2 teaspoon salt
+- 1 1/4 cups packed light brown sugar
+- 1 tablespoon ground cinnamon
+- 1/4-1/3 cup unsalted butter melted','- Preheat the oven to 350 degrees F. Lightly grease a 9-x-13-inch baking dish and set aside.
+- In a large mixing bowl, mix eggs, oil, milk and vanilla together.
+- In a medium bowl, blend flour, sugar, baking powder and salt.
+- Add dry ingredients to the wet ingredients and mix well. Pour half the batter into the prepared baking dish.
+- In a medium bowl, combine brown sugar and cinnamon and mix well.
+- Sprinkle half of the cinnamon sugar on top of the batter. Top with remaining batter, by carefully pouring the batter over the cinnamon sugar layer. Sprinkle the remaining cinnamon sugar mixture over the top.
+- Drizzle the melted butter over the top, using more or less as desired.
+- Bake for 35–40 minutes and serve warm.',350, 40, 15);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Baking','Banana Bread','- 3 very ripe bananas, (medium/large)
+- 1/2 cup unsalted butter, (8 Tbsp) at room temperature
+- 3/4 cup granulated sugar
+- 2 large eggs, lightly beaten
+- 1 1/2 cups all-purpose flour
+- 1 tsp baking soda
+- 1/2 tsp salt
+- 1/2 tsp vanilla extract
+- 1 cup walnuts
+- 1/2 cup raisins','- Preheat the oven to 350°F. Grease and flour a bread loaf pan (9.25 long x 5.25 wide x 2.75 deep). Lightly roast walnuts on a skillet, continuously stirring so they won’t burn. Coarsely chop and cool to room temperature.
+- In a mixing bowl, cream together 8 Tbsp softened butter and 3/4 cup sugar (or honey if using honey).
+- Mash bananas with a fork until the consistency of chunky applesauce and add them to the batter along with 2 eggs, mixing until blended.
+- In a separate bowl, whisk together: 1 1/2 cups of flour, 1 tsp of baking soda and 1/2 tsp of salt then add to batter.
+- Add 1/2 tsp of vanilla extract and mix in chopped walnuts and raisins. Pour into prepared loaf pan. Bake at 350˚F for 55-60 min or until a toothpick inserted into the center comes out clean. Let banana bread rest for 10 min before transferring to a wire rack to cool.',350, 60, 10);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Baking','Chocolate Mousse','- 1 cup chocolate chips , I use semisweet
+- 1/2 cup heavy whipping cream, for melting chocolate chips
+- 2/3 cup chilled heavy whipping cream, for whipping
+- 1 tablespoon powdered sugar
+- 1/4 teaspoon pure vanilla extract','- In a large bowl, heat chocolate chips and 1/2 cup cream until the chocolate is melted and the mixture is smooth. I do this in the microwave in 20 seconds increments, stirring well between each. Set aside to cool to room temperature, stirring occasionally (this took about 15 minutes).
+- In the bowl of a hand mixer or stand mixer fitted with the whisk attachment, beat 2/3 cups chilled cream with powdered sugar and vanilla until stiff peaks form (see note about making extra for topping). Transfer the whipped cream to the refrigerator until the chocolate has cooled to room temperature.
+- Using a rubber/silicone spatula, fold* the whipped cream into the melted chocolate. Once fully combined, transfer the mousse into individual serving dishes and chill for at least 2 hours. The colder it is, the more firm it will be. If you would like it softer you can leave it at room temperature for about 15 minutes before serving.',0, 180, 6);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Baking','Chocolate Cake','- 2 cups all-purpose flour
+- 2 cups sugar
+- 3/4 cup unsweetened cocoa powder
+- 2 teaspoons baking powder
+- 1 1/2 teaspoons baking soda
+- 1 teaspoon salt
+- 1 teaspoon espresso powder homemade or store-bought
+- 1 cup milk or buttermilk, almond, or coconut milk
+- 1/2 cup vegetable oil or canola oil, or melted coconut oil
+- 2 large eggs
+- 2 teaspoons vanilla extract
+- 1 cup boiling water','- Preheat oven to 350º F. Prepare two 9-inch cake pans by spraying with baking spray or buttering and lightly flouring.
+- Add flour, sugar, cocoa, baking powder, baking soda, salt and espresso powder to a large bowl or the bowl of a stand mixer. Whisk through to combine or, using your paddle attachment, stir through flour mixture until combined well.
+- Add milk, vegetable oil, eggs, and vanilla to flour mixture and mix together on medium speed until well combined. Reduce speed and carefully add boiling water to the cake batter until well combined.
+- Distribute cake batter evenly between the two prepared cake pans. Bake for 30-35 minutes, until a toothpick or cake tester inserted in the center of the chocolate cake comes out clean.
+- Remove from the oven and allow to cool for about 10 minutes, remove from the pan and cool completely.
+- Frost',350, 30, 24);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Baking','Chocolate Chip Cookies','- 2 and 1/4 cups (280g) all-purpose flour (spoon & leveled)
+- 1 teaspoon baking soda
+- 1 and 1/2 teaspoons cornstarch*
+- 1/2 teaspoon salt
+- 3/4 cup (1.5 sticks or 170g) unsalted butter, melted & cooled 5 minutes*
+- 3/4 cup (150g) packed light or dark brown sugar
+- 1/2 cup (100g) granulated sugar
+- 1 large egg + 1 egg yolk, at room temperature
+- 2 teaspoons pure vanilla extract
+- 1 and 1/4 cups (225g) semi-sweet chocolate chips or chocolate chunks','- Whisk the flour, baking soda, cornstarch, and salt together in a large bowl. Set aside.
+- In a medium bowl, whisk the melted butter, brown sugar, and granulated sugar together until no brown sugar lumps remain. Whisk in the egg and egg yolk. Finally, whisk in the vanilla extract. The mixture will be thin. Pour into dry ingredients and mix together with a large spoon or rubber spatula. The dough will be very soft, thick, and appear greasy. Fold in the chocolate chips. The chocolate chips may not stick to the dough because of the melted butter, but do your best to combine them.
+- Cover the dough tightly and chill in the refrigerator for at least 2–3 hours or up to 3 days. I highly recommend chilling the cookie dough overnight for less spreading.
+- Take the dough out of the refrigerator and allow it to slightly soften at room temperature for 10 minutes.
+- Preheat oven to 325°F (163°C). Line large baking sheets with parchment paper or silicone baking mats. Set aside.
+- Using a cookie scoop or Tablespoon measuring spoon, measure 3 scant Tablespoons (about 2 ounces, or 60g) of dough for XL cookies or 2 heaping Tablespoons (about 1.75 ounces, or 50g) of dough for medium/large cookies. Roll into a ball, making sure the shape is taller rather than wide—almost like a cylinder. This helps the cookies bake up thicker. Repeat with remaining dough. Place 8–9 balls of dough onto each cookie sheet.
+- Bake the cookies for 12–13 minutes or until the edges are very lightly browned. (XL cookies can take closer to 14 minutes.) The centers will look very soft, but the cookies will continue to set as they cool. Cool on the baking sheet for 10 minutes. Meanwhile, press a few extra chocolate chips into the tops of the warm cookies. This is optional and only for looks. After 10 minutes of cooling on the baking sheets, transfer cookies to a wire rack to cool completely.
+- Cookies stay fresh covered at room temperature for up to 1 week.',325, 12, 24);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Baking','Oatmeal Raisin Cookies','- 1 cup (230g) unsalted butter, softened to room temperature
+- 1 cup (200g) packed light or dark brown sugar
+- 1/4 cup (50g) granulated sugar
+- 2 large eggs*
+- 1 Tablespoon pure vanilla extract (yes, Tablespoon!)
+- 1 Tablespoon (15ml) unsulphured or dark molasses (do not use blackstrap; I prefer Grandma’s brand)
+- 1 and 1/2 cups (188g) all-purpose flour (spooned & leveled)
+- 1 teaspoon baking soda
+- 1 and 1/2 teaspoons ground cinnamon
+- 1/2 teaspoon salt
+- 3 cups (255g) old-fashioned whole rolled oats*
+- 1 cup (140g) raisins*
+- optional: 1/2 cup (64g) chopped toasted walnuts','- Using a hand mixer or a stand mixer fitted with paddle attachment, cream the softened butter and both sugars together on medium speed until smooth, about 2 minutes. Add the eggs and mix on high until combined, about 1 minute. Scrape down the sides and bottom of the bowl as needed. Add the vanilla and molasses and mix on high until combined. Set aside.
+- In a separate bowl, whisk the flour, baking soda, cinnamon, and salt together. Add to the wet ingredients and mix on low until combined. Beat in the oats, raisins, and walnuts (if using) on low speed. Dough will be thick, yet very sticky. Chill the dough for 30-60 minutes in the refrigerator (do the full hour if you’re afraid of the cookies spreading too much). If chilling for longer (up to 2 days), allow to sit at room temperature for at least 30 minutes before rolling and baking.
+- Preheat oven to 350°F (177°C). Line two large baking sheets with parchment paper or silicone baking mats. Set aside.
+- Roll balls of dough (about 2 tablespoons of dough per cookie) and place 2 inches apart on the baking sheets. I recommend using a cookie scoop since the dough can be sticky. Bake for 12-14 minutes until lightly browned on the sides. The centers will look very soft and under-baked. Remove from the oven and let cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely. The cookies will continue to set on the baking sheet during this time.',350, 13, 30);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Baking','Lemon Tart','- 2 large eggs plus 2 egg yolks (or 3 whole eggs)
+- 3/4 cup (150 g/5.3 oz) granulated sugar
+- 1 tablespoon lemon zest
+- 1/2 cup (120 ml) freshly squeezed lemon juice (2-3 lemons for both zest and juice)
+- 2 tablespoons heavy cream , optional
+- 1/2 cup (1 stick/115 g) unsalted butter, cut into small pieces','In a medium heatproof mixing bowl, place eggs, sugar, lemon zest, lemon juice, and heavy cream, if using, and whisk to combine. Place the bowl over a saucepan of simmering water (bain-marie). Cook on moderate heat, whisking constantly, until mixture becomes thick (mine was ready in 10 minutes, but it can take up to 20). If you have a thermometer, it should register 170°F/75°C; otherwise, it should coat the back of a wooden spoon and leave a clear pass if you run your finger through it. The curd will thicken more once cooled.
+- Remove from heat and immediately strain mixture through a fine mesh sieve. Add butter, a few cubes at a time, and whisk until completely melted and incorporated, and mixture is smooth. Take your time with it—the whisking makes for an airy and light texture. Allow to cool to room temperature before filling the tart. (Lemon curd can be kept in an airtight container in the fridge for up to a week, or can be frozen for up to 2 months. To thaw, place overnight in the fridge. Whisk the mixture to smoothen it before using.)
+- Fill the tart shell with lemon curd, then refrigerate for at least 4 hours until chilled. Serve with berries and whipped cream if you like. The tart is rich, so cut your servings small.',0, 20, 16);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Baking','Gingerbread','- 1 3/4 cups all-purpose flour, spooned into measuring cup and leveled-off with back edge of knife
+- 1 teaspoon baking soda
+- 1/2 teaspoon salt
+- 2 teaspoons ground ginger
+- 1 teaspoon ground cinnamon
+- 1/4 teaspoon ground cloves
+- 4 tablespoons unsalted butter, melted
+- 2/3 cup packed dark brown sugar
+- 2/3 cup mild-flavored molasses, such as Grandmas Original (not Robust or Blackstrap)
+- 2/3 cup boiling water
+- 1 large egg','- Preheat oven to 350°F. Grease a 9-in square pan with nonstick cooking spray with flour, such as Bakers Joy. (Alternatively, grease the pan with butter and lightly coat with flour.)
+- In a medium bowl, whisk together flour, baking soda, salt, ginger, cinnamon and cloves. Set aside.
+- In a large bowl, whisk together the melted butter, brown sugar, molasses, and boiling water. When the mixture is luke warm, whisk in the egg.
+- Add the dry ingredients to the wet ingredients and whisk until just combined and there are no more lumps. Pour the batter into the prepared pan and bake for about 35 minutes, or until the edges look dark and the middle feels firm to the touch. Set the pan on a rack to cool slightly, then cut into squares and serve. This cake is best served warm out of the oven or reheated.
+- Freezer-Friendly Instructions: The gingerbread can be frozen for up to 3 months. After it is completely cooled, double-wrap it securely with aluminum foil or plastic freezer wrap, or place it in heavy-duty freezer bag. Thaw overnight on the countertop before serving.',350, 35, 16);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Baking','Tiramisu','- 1 1/2 cups heavy whipping cream
+- 8 ounce container mascarpone cheese ,room temperature
+- 1/3 cup granulated sugar
+- 1 teaspoon vanilla extract
+- 1 1/2 cups cold espresso
+- 3 Tablespoons coffee flavored liqueur ,optional (Kahlua or DaVinci brands)
+- 1 package Lady Fingers ,Savoiardi brand can be found in the cookie aisle at your local grocery store, or online
+- Cocoa powder for dusting the top','- Add whipping cream to a mixing bowl and beat on medium speed with electric mixers (or use a stand mixer). Slowly add sugar and vanilla and continue to beat until stiff peaks. Add mascarpone cheese and mix just until combined. Set aside.
+- Add coffee and liqueur to a shallow bowl. Dip the lady fingers in the coffee (Do not soak them--just quickly dip them on both sides to get them wet) and lay them in a single layer on the bottom of an 8x8 or similar size pan.
+- Smooth half of the mascarpone mixture over the top. Add another layer of dipped lady fingers. Smooth remaining mascarpone cream over the top.
+- Dust cocoa powder generously over the top (I use a fine mesh strainer to do this). Refrigerate for at least 3-4 hours or up to overnight before serving.',0, 10, 9);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Baking','Cream Puffs','~for pastry~
+- 1/2 cup water
+- 1/2 cup whole milk
+- 8 Tbsp unsalted butter
+- 1 tsp granulated sugar
+- 1/4 tsp salt
+- 1 cup all-purpose flour, measured correctly
+- 4 eggs, (large), room temperature
+~for cream filling~
+- 2 cups heavy whipping cream, chilled
+- 4 Tbsp granulated sugar
+- 1 tsp vanilla extract
+- 28 raspberries, optional
+- 1 Tbsp powdered sugar, to garnish','- Preheat oven to 425˚F. Line a rimmed baking sheet with Silpat or parchment paper.
+- In a Medium saucepan, combine 1/2 cup water, 1/2 cup milk, 8 Tbsp butter, 1 tsp sugar and 1/4 tsp salt. Bring just to a boil over medium heat then remove from heat and stir in 1 cup flour all at once with a wooden spoon.
+- One flour is incorporated, place back over medium heat stirring constantly for 1 1/2 to 2 minutes to release extra moisture and partially cook flour. A thin film will form on the bottom of the pan and dough will come together into a smooth ball.
+- Transfer dough to a large mixing bowl and beat using an electric mixer on medium speed for 1 minute to cool mixture slightly. Add 4 eggs, 1 at a time, allowing to fully incorporate between additions. Beat another minute until dough is smooth and forms a thick ribbon when pulled up.
+- Transfer the dough to a piping bag fitted with a 1/2 inch round tip. Pipe 28 puffs, each 1 1/2 inch diameter and 1/2 inch tall rounds. Keep them 1 inch apart and avoid making peaks* but if you do get peaks, wet finger tips lightly with water and smooth them out.
+- Bake at 425˚F for 10 minutes in the center of the oven. Without opening oven, reduce temp to 325˚F and, bake 20-22 min longer or until golden brown on top. Transfer to wire rack to cool completely.
+~cream~
+- In a large mixing bowl, combine 2 cups heavy cream, 4 Tbsp sugar and 1 tsp vanilla extract. Beat on medium-high speed until fluffy with stiff peaks (2 min). Transfer to a piping bag fitted with a large open star tip.
+- Once cream puffs are completely cooled, fill them with cream. There are 2 ways to fill them: (#1) pipe the cream into the puffs by pushing the pastry tip into the side and piping until cream pushes back, or (#2) Cut off tops of puffs and pipe cream inside using a pastry bag, push a raspberry down into the center if desired, then cover with the tops. Dust with powdered sugar and serve.',425, 30, 28);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Baking','Beignets','- 1 and 1/2 cups warm water, between 110 and 115 degrees (F)
+- 2/3 cup granulated sugar
+- 2 and 1/4 teaspoons active dry yeast
+- 2 large eggs, at room temperature
+- 1 cup evaporated milk
+- 2 and 1/2 teaspoons pure vanilla extract
+- 7 cups bread flour
+- 1 and 1/2 teaspoons salt
+- 5 tablespoons unsalted butter, at room temperature
+- 4 cups peanut oil, for deep frying
+- 2 cups confectioners’ sugar','- In a medium-size bowl, add the warm water, sugar, and yeast and whisk well to combine. Sit aside for about 10 minutes, or until the mixture has bubbled up and become foamy.
+- In the bowl of a stand mixer fitted with the paddle attachment,  beat the eggs until smooth. Beat in the vanilla and evaporated milk. Beat in 3 and 1/2 cups of the flour until smooth. Turn the mixer to low speed and slowly pour in the yeast mixture (careful here - this mixture can splash up if added to quickly!); beat until smooth. Add in the butter and beat until incorporated. Finally, beat in the remaining 3 and 1/2 cups of flour and salt. Beat until dough is smooth and cohesive; about 2 minutes. Cover the bowl tightly with plastic wrap and refrigerate the dough for at least 2 hours, or up to 24 hours.
+- Line a large rimmed baking sheet with three layers of paper towels, set aside.
+- In a large enameled cast-iron pan, heat 4-inches of oil to 360 degrees (F). Remove the dough from the refrigerator. On a lightly floured surface, roll the dough out into a 1/4-inch thick rectangle. Cut the dough into 2 and 1/2-inch squares.
+- In batches, fry the dough until they puff up and are golden brown in color, about 1 minute. Using a slotted spoon, transfer the beignets to the prepared baking sheet and repeat with remaining dough.
+- Dust with powdered sugar and serve at once! ',0, 15, 36);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Baking','Peach Cobbler','- 5 peaches , peeled, cored and sliced (about 4 cups)
+- 3/4 cup granulated sugar
+- 1/4 teaspoon salt
+~for batter~
+- 6 Tablespoons butter
+- 1 cup all-purpose flour
+- 1 cup granulated sugar
+- 2 teaspoons baking powder
+- 1/4 teaspoon salt
+- 3/4 cup milk
+- ground cinnamon','- Add the sliced peaches, sugar and salt to a saucepan and stir to combine.
+- Cook on medium heat for just a few minutes, until the sugar is dissolved and helps to bring out juices from the peaches. Remove from heat and set aside.
+- Preheat oven to 350 degrees F. Slice butter into pieces and add to a 9x13 inch baking dish. Place the pan in the oven while it preheats, to allow the butter to melt. Once melted, remove the pan from the oven.
+- In a large bowl mix together the flour, sugar, baking powder, and salt. Stir in the milk, just until combined. Pour the mixture into the pan, over the melted butter and smooth it into an even layer.
+- Spoon the peaches and juice (or canned peaches, if using) over the batter. Sprinkle cinnamon generously over the top.
+- Bake at 350 degrees for about 38-40 minutes. Serve warm, with a scoop of ice cream, if desired.',350, 40, 9);
+INSERT INTO recipesNew_data (Category, Name, Ingredients, Instructions, cookTemp, cookTime, servings) VALUES ('Baking','Chocolate Lava Cake','- 1/2 cup unsalted butter (113g)
+- 6 ounces bittersweet chocolate chopped (168g)
+- 2 large eggs
+- 2 large egg yolks
+- 1/4 cup granulated sugar (50g)
+- 1/8 teaspoon salt
+- 2 tablespoons all-purpose flour','- Preheat the oven to 450F. Butter and lightly flour 6 (4- to 5-ounce) ramekins and place them on a baking sheet.
+- Combine the butter and chocolate in a double boiler and melt over low heat, stirring until smooth. Or, place the butter and chocolate in a microwave-safe bowl and microwave on high, stirring every 30-seconds until melted. Whisk together until smooth.
+- In a large mixing bowl, combine the eggs, egg yolks, sugar, and salt. Beat on medium speed until thick and pale yellow. Fold the chocolate mixture and flour into the egg mixture until well combined. Divide the batter among the prepared ramekins.
+- Bake for 6 to 8 minutes or until the sides of the cakes are firm set but the center is jiggly. Let the cakes cool in the ramekins for 1 minute.
+- Place a small dessert plate over the top of each ramekin and carefully turn it over, inverting the cake onto the plate. Let stand for about 10 seconds, then remove the ramekin to unmold the cakes. Sift powdered sugar on top and garnish with berries, if desired. Serve immediately.',450, 15, 6);

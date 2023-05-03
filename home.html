@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+
+
+  <title>Home</title>
+<body style="background-color:#66AC47;">
+
+<style>
+.button {
+	background-color:#007155;
+}
+/* button formatting for buttons to take user to recipes or probe */
+  .buttonForRecipes {
+    background-color: #007155;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 0px 0px;
+  cursor: pointer;
+  }
+    .buttonForProbe {
+  background-color: #007155;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+    text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 0px 0px;
+  cursor: pointer;
+    }
+
+    /* container formatting to display buttons in a grid */
+    .container {
+      height: 800px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    .containerType2 {
+
+      display: flex;
+      flex-direction: row;
+        justify-content: center;
+
+
+
+    }
+        .containerType1 {
+      display: flex;
+      flex-direction: row;
+  justify-content: center;
+    }
+    .item {
+        width: 400px;
+      margin: 10px;
+      /*border: 3px solid #333;
+      background-color; #dfdfdf;*/
+
+
+    }
+
+    .item-1 {
+      min-height: 300px;
+    }
+
+    .item-2 {
+      min-height: 200px;
+    }
+
+    .item-3 {
+    display: flex;
+      flex-direction: row;
+      justify-content: center;
+      min-height: 50px;
+      min-width: 100px;
+    }
+    /* This makes it so the header fits the whole page */
+    * {
+      margin: 0;
+    }
+    .pageHeader {
+      background-color: #007155;
+      height: 100px;
+    }
+
+    .h1 {
+    text-align:center;
+    position: relative;
+    top: 0.5vw;
+}
+    .h6 {
+    text-align:left;
+    position: relative;
+    top: 0.5vw;
+    left: 0.5vw;
+}
+
+  </style>
+</head>
+
+
+<body>
+<div class="pageHeader">
+  <h1 class="h1" style="font-size:80px;font-family:palatino;">{{Title}}</h1>
+
+
+</div>
+<div class="container">
+  <div class="containerType1">
+    <div class="item item-1">
+      <img id="recipes"
+           src="https://i.pinimg.com/originals/bf/56/5b/bf565b8639d145cda3b68d89955df46c.jpg"
+           height= "300"
+           alt="buttonpng"
+           border="0" />
+    </div>
+    <div class="item item-2">
+      <buttonProbe 
+      type="submit">
+        <img id="probe"
+             src="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/91Fza8vDRCL._AC_UF894,1000_QL80_.jpg"
+             height= "300"
+             alt="buttonpng"
+             border="0" />
+      </buttonProbe>
+    </div>
+  </div>
+  <div class="containerType2">
+    <div class="item item-3">
+
+		      <a class="button buttonForRecipes" href="{{ url_for('categories') }}">Recipes</a>
+
+    </div>
+    <div class="item item-3">
+      <a class="button buttonForProbe" href="{{ url_for('probe') }}">Probe</a>
+
+
+    </div>
+  </div>
+
+
+</div>
+<div class="pageHeader">
+  <h6 style="font-size:15px;color:white;font-family:georgia;">{{Name}} 2023 </h6>
+  <h6 style="font-size:15px;color:white;font-family:georgia;">CS121 - Computer Organization </h6>
+
+</div>
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+      <script src="/static/buttons.js"></script>
+   
+</body>
+</html>
